@@ -2,7 +2,7 @@
 title: Lunchbox Changelog
 ---
 
-<h1>Lunchbox Changelog</h1>
+<h1>What changed:/h1>
 
 <div class="tab-buttons">
   <button onclick="showTab('core-products')">Core Products</button>
