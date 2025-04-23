@@ -10,11 +10,11 @@ title: Lunchbox Changelog
 </div>
 
 <div id="core-products" class="tab active">
-  {{ "{% include_relative changelogs/core-products.md %}" | markdownify }}
+  {% include_relative changelogs/core-products.md %}
 </div>
 
 <div id="core-service-revel" class="tab">
-  {{ "{% include_relative changelogs/core-service-revel.md %}" | markdownify }}
+  {% include_relative changelogs/core-service-revel.md %}
 </div>
 
 <script>
