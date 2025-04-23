@@ -1,3 +1,5 @@
 title: Lunchbox Changelog
 theme: jekyll-theme-cayman
-markdown: kramdown
+show_downloads: false
+
+# markdown: kramdown
