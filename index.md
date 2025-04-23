@@ -9,11 +9,11 @@ title: Lunchbox Changelog
   <button onclick="showTab('core-service-revel')">Core Service Revel</button>
 </div>
 
-<div id="core-products" class="tab">
+<div id="core-products" class="tab" markdown="1">
 {% include_relative changelogs/core-products.md %}
 </div>
 
-<div id="core-service-revel" class="tab">
+<div id="core-service-revel" class="tab" markdown="1">
 {% include_relative changelogs/core-service-revel.md %}
 </div>
 
