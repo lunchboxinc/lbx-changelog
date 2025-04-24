@@ -13,6 +13,10 @@ title: Lunchbox Changelog
 {% include_relative changelogs/core-products.md %}
 </div>
 
+<div id="core-service-nash" class="tab" markdown="1">
+{% include_relative changelogs/core-service-nash.md %}
+</div>
+
 <div id="core-service-revel" class="tab" markdown="1">
 {% include_relative changelogs/core-service-revel.md %}
 </div>
