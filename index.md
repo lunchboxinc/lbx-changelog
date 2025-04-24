@@ -26,14 +26,10 @@ document.addEventListener("DOMContentLoaded", async () => {
     div.id = repo;
     div.className = 'tab';
     contents.appendChild(div);
-
-    // Load .md file content and inject it
     fetch(`changelogs/${repo}.md`)
       .then(r => r.text())
       .then(markdown => {
-        // GitHub Pages doesn’t render MD in script-injected HTML,
-        // so render as preformatted for now
-        div.innerHTML = `<pre>${markdown}</pre>`;
+        div.innerHTML = marked.parse(markdown);
       });
   });
 
@@ -56,6 +52,9 @@ function showTab(id) {
   document.getElementById(id).style.display = 'block';
 }
 </script>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
 
 <style>
 .tab { display: none; white-space: pre-wrap; }
