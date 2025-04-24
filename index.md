@@ -6,6 +6,7 @@ title: Lunchbox Changelog
 
 <div class="tab-buttons">
   <button onclick="showTab('core-products')">Core Products</button>
+  <button onclick="showTab('core-service-nash')">Core Service Nash</button>
   <button onclick="showTab('core-service-revel')">Core Service Revel</button>
 </div>
 
