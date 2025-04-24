@@ -24,6 +24,19 @@ function showTab(id) {
 }
 // Optional: Set default tab on load
 window.onload = () => showTab('core-products');
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".utc-date").forEach(el => {
+    const utcDate = new Date(el.textContent.trim());
+    if (!isNaN(utcDate)) {
+      el.textContent = utcDate.toLocaleString();  // User’s local time
+      el.title = utcDate.toISOString();           // Hover for raw UTC
+    }
+  });
+  });
+
+
 </script>
 
 <style>
