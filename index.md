@@ -4,48 +4,61 @@ title: Lunchbox Changelog
 
 <h1>Release Notes:</h1>
 
-<div class="tab-buttons">
-  <button onclick="showTab('core-products')">Core Products</button>
-  <button onclick="showTab('core-service-nash')">Core Service Nash</button>
-  <button onclick="showTab('core-service-revel')">Core Service Revel</button>
-</div>
-
-<div id="core-products" class="tab" markdown="1">
-{% include_relative changelogs/core-products.md %}
-</div>
-
-<div id="core-service-nash" class="tab" markdown="1">
-{% include_relative changelogs/core-service-nash.md %}
-</div>
-
-<div id="core-service-revel" class="tab" markdown="1">
-{% include_relative changelogs/core-service-revel.md %}
-</div>
+<div class="tab-buttons" id="tab-buttons"></div>
+<div id="tab-contents"></div>
 
 <script>
+document.addEventListener("DOMContentLoaded", async () => {
+  // Load repo names from changelog-index.json
+  const res = await fetch('changelogs/changelog-index.json');
+  const repos = await res.json();
+
+  const buttons = document.getElementById('tab-buttons');
+  const contents = document.getElementById('tab-contents');
+
+  repos.forEach((repo, i) => {
+    const btn = document.createElement('button');
+    btn.textContent = repo.replace(/-/g, ' ');
+    btn.onclick = () => showTab(repo);
+    buttons.appendChild(btn);
+
+    const div = document.createElement('div');
+    div.id = repo;
+    div.className = 'tab';
+    contents.appendChild(div);
+
+    // Load .md file content and inject it
+    fetch(`changelogs/${repo}.md`)
+      .then(r => r.text())
+      .then(markdown => {
+        // GitHub Pages doesn’t render MD in script-injected HTML,
+        // so render as preformatted for now
+        div.innerHTML = `<pre>${markdown}</pre>`;
+      });
+  });
+
+  showTab(repos[0]); // Show first by default
+
+  // Local time conversion for utc-date spans
+  setTimeout(() => {
+    document.querySelectorAll(".utc-date").forEach(el => {
+      const utcDate = new Date(el.textContent.trim());
+      if (!isNaN(utcDate)) {
+        el.textContent = utcDate.toLocaleString();
+        el.title = utcDate.toISOString();
+      }
+    });
+  }, 500);
+});
+
 function showTab(id) {
   document.querySelectorAll('.tab').forEach(t => t.style.display = 'none');
   document.getElementById(id).style.display = 'block';
 }
-// Optional: Set default tab on load
-window.onload = () => showTab('core-products');
-
-
-document.addEventListener("DOMContentLoaded", () => {
-  document.querySelectorAll(".utc-date").forEach(el => {
-    const utcDate = new Date(el.textContent.trim());
-    if (!isNaN(utcDate)) {
-      el.textContent = utcDate.toLocaleString();  // User’s local time
-      el.title = utcDate.toISOString();           // Hover for raw UTC
-    }
-  });
-  });
-
-
 </script>
 
 <style>
-.tab { display: none; }
+.tab { display: none; white-space: pre-wrap; }
 .tab-buttons button {
   margin: 0 10px;
   padding: 6px 12px;
