@@ -1,7 +1,7 @@
 [
     "core-products",
     "core-service-nash",
-    "core-service-revel"
+    "core-service-revel",
     "loyalty-engine-api"
 ]
   
