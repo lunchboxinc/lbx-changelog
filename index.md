@@ -59,7 +59,7 @@ function showTab(id) {
 <style>
 .tab { display: none; white-space: pre-wrap; }
 .tab-buttons button {
-  margin: 0 10px;
+  margin: 10px 10px;
   padding: 6px 12px;
   font-size: 16px;
   border-radius: 6px;
