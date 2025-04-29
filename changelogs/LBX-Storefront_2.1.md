@@ -1,6 +1,6 @@
 ## v1.0.1 - <span class="utc-date">2025-04-29T15:11:09Z</span>
 
-What Changed
+## What's Changed
 * fix: LBX-23417 cart addition issue resolved 
 
 ## v1.0.0 - <span class="utc-date">2025-04-29T15:00:02Z</span>
