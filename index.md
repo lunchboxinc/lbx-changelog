@@ -57,7 +57,11 @@ function showTab(id) {
 
 
 <style>
-.tab { display: none; white-space: pre-wrap; }
+.tab { 
+  display: none; 
+  white-space: normal;
+  line-height: 1.5;
+}
 .tab-buttons button {
   margin: 10px 10px;
   padding: 6px 12px;
