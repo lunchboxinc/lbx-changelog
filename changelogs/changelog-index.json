@@ -2,6 +2,8 @@
     "core-products",
     "core-service-nash",
     "core-service-revel",
-    "loyalty-engine-api"
+    "loyalty-engine-api",
+    "LBX-NewAdmin",
+    "LBX-Storefront_2.1"
 ]
   
