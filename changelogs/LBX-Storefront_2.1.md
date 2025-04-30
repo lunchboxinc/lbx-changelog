@@ -1,3 +1,7 @@
+## v1.0.2 - <span class="utc-date">2025-04-30T13:25:18Z</span>
+
+LBX-23369 added city to the address in the confirmation page
+
 ## v1.0.1 - <span class="utc-date">2025-04-29T15:11:09Z</span>
 
 ## What's Changed
