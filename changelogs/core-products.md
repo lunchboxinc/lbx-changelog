@@ -1,3 +1,15 @@
+## v1.0.1 - <span class="utc-date">2025-05-05T14:41:16Z</span>
+
+What Changed:
+
+NDOrderEngine 11580 -> 11586
+NDApi 11562 -> 11591
+NDStaticResource 11523 -> 11585
+
+
+
+    
+
 ## Initial Release Notes:
 * NDExternal: Update order status when pos_status 
 * Update NdCustomer with Square 
