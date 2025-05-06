@@ -1,3 +1,7 @@
+## v1.0.3 - <span class="utc-date">2025-05-06T12:29:07Z</span>
+
+LBX-23501 --- If the user's session is active and the disable_login value returns true, the session will be terminated and the login button will no longer be displayed. The login button will also remain hidden when the session is inactive.
+
 ## v1.0.2 - <span class="utc-date">2025-04-30T13:25:18Z</span>
 
 LBX-23369 added city to the address in the confirmation page
