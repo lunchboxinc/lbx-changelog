@@ -1,3 +1,7 @@
+## v1.0.5 - <span class="utc-date">2025-05-09T13:34:02Z</span>
+
+LBX-22737 remove duplicate items from favorite items based on item_id
+
 ## v1.0.4 - <span class="utc-date">2025-05-06T15:17:29Z</span>
 
 LBX-23435 - Special Instructions now support dynamic character limits with input/textarea switching and 120-char fallback.
