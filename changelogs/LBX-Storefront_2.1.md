@@ -1,3 +1,7 @@
+## v1.0.6 - <span class="utc-date">2025-05-12T14:23:48Z</span>
+
+LBX-23530 add + sign to the left of price for items with additional cost
+
 ## v1.0.5 - <span class="utc-date">2025-05-09T13:34:02Z</span>
 
 LBX-22737 remove duplicate items from favorite items based on item_id
