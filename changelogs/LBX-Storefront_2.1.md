@@ -1,3 +1,7 @@
+## v1.0.8 - <span class="utc-date">2025-05-14T10:36:23Z</span>
+
+LBX-23520 - ensure bulk modifier validation checks only related child items
+
 ## v1.0.7 - <span class="utc-date">2025-05-14T07:51:07Z</span>
 
 LBX-23254 - The Favorites category is now only displayed on the web when the toggle in the admin panel is enabled. The category name is no longer hardcoded — it is now dynamically retrieved from the admin panel and can be customized.
