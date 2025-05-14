@@ -1,3 +1,7 @@
+## v1.0.7 - <span class="utc-date">2025-05-14T07:51:07Z</span>
+
+LBX-23254 - The Favorites category is now only displayed on the web when the toggle in the admin panel is enabled. The category name is no longer hardcoded — it is now dynamically retrieved from the admin panel and can be customized.
+
 ## v1.0.6 - <span class="utc-date">2025-05-12T14:23:48Z</span>
 
 LBX-23530 add + sign to the left of price for items with additional cost
