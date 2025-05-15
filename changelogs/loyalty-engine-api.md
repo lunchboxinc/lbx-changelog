@@ -1,3 +1,13 @@
+## 0.9.8 - <span class="utc-date">2025-05-15T14:00:04Z</span>
+
+## What's Changed
+* LBX-23573: Update Formindable package by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/852
+* LBX-23652: Add Prisma read url  by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/855
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/0.9.7...0.9.8
+
+
 ## 0.9.7 - <span class="utc-date">2025-05-15T12:40:15Z</span>
 
 ## What's Changed
