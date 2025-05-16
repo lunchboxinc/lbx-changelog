@@ -1,3 +1,13 @@
+## 0.9.9 - <span class="utc-date">2025-05-16T14:46:09Z</span>
+
+## What's Changed
+* version/0.9.8 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/856
+* LBX-23685: Add report table to db by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/857
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/0.9.8...0.9.9
+
+
 ## 0.9.9 - <span class="utc-date">2025-05-16T14:43:19Z</span>
 
 ## What's Changed
