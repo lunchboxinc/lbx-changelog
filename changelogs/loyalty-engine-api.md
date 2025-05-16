@@ -1,3 +1,15 @@
+## 0.9.9 - <span class="utc-date">2025-05-16T14:48:08Z</span>
+
+## What's Changed
+* LBX-23573: Update Formindable package by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/852
+* version/0.9.8 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/856
+* LBX-23697: Fix bank refund points by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/858
+* 0.9.9 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/859
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/0.9.7...0.9.9
+
+
 ## 0.9.9 - <span class="utc-date">2025-05-16T14:46:09Z</span>
 
 ## What's Changed
