@@ -1,3 +1,7 @@
+## v1.0.9 - <span class="utc-date">2025-05-22T17:21:13Z</span>
+
+LBX-23776 and LBX-23780 -- DOMNodeInserted is no longer used, so it has been replaced with MutationObserver, and a few console errors have been fixed.
+
 ## v1.0.8 - <span class="utc-date">2025-05-14T10:36:23Z</span>
 
 LBX-23520 - ensure bulk modifier validation checks only related child items
