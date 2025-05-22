@@ -1,3 +1,9 @@
+## v1.0.9 - <span class="utc-date">2025-05-22T17:25:19Z</span>
+
+LBX-23776, LBX-23780 - DOMNodeInserted is no longer used, so it has been replaced with MutationObserver, and a few console errors have been fixed.
+
+
+
 ## v1.0.9 - <span class="utc-date">2025-05-22T17:24:46Z</span>
 
 LBX-23776, LBX-23780 - DOMNodeInserted is no longer used, so it has been replaced with MutationObserver, and a few console errors have been fixed.
