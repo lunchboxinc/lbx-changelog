@@ -1,3 +1,7 @@
+## v1.0.10 - <span class="utc-date">2025-05-23T09:57:09Z</span>
+
+LBX-23788 - don't open picklist modal if order pick list is empty
+
 ## v1.0.9 - <span class="utc-date">2025-05-22T17:25:19Z</span>
 
 LBX-23776, LBX-23780 - DOMNodeInserted is no longer used, so it has been replaced with MutationObserver, and a few console errors have been fixed.
