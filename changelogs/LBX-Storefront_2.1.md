@@ -1,3 +1,8 @@
+## v1.0.11 - <span class="utc-date">2025-05-27T10:44:52Z</span>
+
+LBX-23220 - item information in confirmation mapped to cartView
+
+
 ## v1.0.10 - <span class="utc-date">2025-05-23T09:57:09Z</span>
 
 LBX-23788 - don't open picklist modal if order pick list is empty
