@@ -1,3 +1,7 @@
+## v1.0.12 - <span class="utc-date">2025-05-28T09:13:46Z</span>
+
+LBX-23449 - added missing info modal
+
 ## v1.0.11 - <span class="utc-date">2025-05-27T10:44:52Z</span>
 
 LBX-23220 - item information in confirmation mapped to cartView
