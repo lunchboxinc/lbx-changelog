@@ -1,3 +1,7 @@
+## v1.0.13 - <span class="utc-date">2025-05-28T09:14:53Z</span>
+
+LBX-23449 - show test stores only for loggedIn users with management rights
+
 ## v1.0.12 - <span class="utc-date">2025-05-28T09:13:46Z</span>
 
 LBX-23449 - added missing info modal
