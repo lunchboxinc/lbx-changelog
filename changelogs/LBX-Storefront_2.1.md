@@ -1,3 +1,8 @@
+## v1.0.14 - <span class="utc-date">2025-05-28T15:35:48Z</span>
+
+LBX-23803 - fix: long password input overflow issue with proper alignment for password toggle icon 
+
+
 ## v1.0.13 - <span class="utc-date">2025-05-28T09:14:53Z</span>
 
 LBX-23449 - show test stores only for loggedIn users with management rights
