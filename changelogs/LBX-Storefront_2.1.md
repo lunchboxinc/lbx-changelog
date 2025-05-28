@@ -1,3 +1,7 @@
+## v1.0.15 - <span class="utc-date">2025-05-28T16:49:53Z</span>
+
+LBX-23792 - fix: normalize modifier quantities to match confirmation display in PDF output
+
 ## v1.0.14 - <span class="utc-date">2025-05-28T15:35:48Z</span>
 
 LBX-23803 - fix: long password input overflow issue with proper alignment for password toggle icon 
