@@ -1,3 +1,21 @@
+## 0.9.11 - <span class="utc-date">2025-05-28T17:01:45Z</span>
+
+## What's Changed
+* LBX-23652: Add Prisma read url  by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/855
+* LBX-23685: Add report table to db by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/857
+* LBX-23647: Add POST /report logic by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/860
+* LBX-23725: Add basic report consumer setup by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/861
+* LBX-23721 Add generate perks report by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/862
+* LBX-23771: Add generate report to loyalty transaction by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/863
+* LBX-23648: Add get reports by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/864
+* version/0.9.10 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/866
+* LBX-23827: Add employeeId to report table by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/868
+* LBX-23828: Add new fields to post report by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/869
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/0.9.9...0.9.11
+
+
 ## 0.9.9 - <span class="utc-date">2025-05-16T14:48:08Z</span>
 
 ## What's Changed
