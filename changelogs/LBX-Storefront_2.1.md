@@ -1,3 +1,7 @@
+## v1.1.1 - <span class="utc-date">2025-06-02T12:12:31Z</span>
+
+LBX-22291,LBX-22613,LBX-23379 - Order Scheduler
+
 ## v1.0.16 - <span class="utc-date">2025-05-29T14:55:42Z</span>
 
 LBX-23785 - fix: prevent custom tip amount from exceeding 100% of order subtotal
