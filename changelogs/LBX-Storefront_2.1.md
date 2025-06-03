@@ -1,3 +1,7 @@
+## v1.1.2 - <span class="utc-date">2025-06-03T13:52:50Z</span>
+
+LBX-23897 - replace cdn.mydelish.menu with cdn-branding.lunchbox.io in branding URLs
+
 ## v1.1.1 - <span class="utc-date">2025-06-02T12:12:31Z</span>
 
 LBX-22291,LBX-22613,LBX-23379 - Order Scheduler
