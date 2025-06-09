@@ -1,3 +1,13 @@
+## 0.10.1 - <span class="utc-date">2025-06-09T12:47:50Z</span>
+
+## What's Changed
+* LBX-23859: Add script to update user_wallet email by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/877
+* 68: Update multer package vulnerability by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/880
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/0.10.0...0.10.1
+
+
 ## 0.9.11 - <span class="utc-date">2025-05-28T17:01:45Z</span>
 
 ## What's Changed
