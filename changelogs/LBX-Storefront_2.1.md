@@ -1,3 +1,7 @@
+## v1.1.3 - <span class="utc-date">2025-06-10T20:17:08Z</span>
+
+LBX-23413 - Custom Terms & Conditions
+
 ## v1.1.2 - <span class="utc-date">2025-06-03T13:52:50Z</span>
 
 LBX-23897 - replace cdn.mydelish.menu with cdn-branding.lunchbox.io in branding URLs
