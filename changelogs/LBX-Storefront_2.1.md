@@ -1,3 +1,7 @@
+## v1.1.4 - <span class="utc-date">2025-06-12T12:27:37Z</span>
+
+LBX-23917 - move rewards configuration from branding.rewards to display_options
+
 ## v1.1.3 - <span class="utc-date">2025-06-10T20:17:08Z</span>
 
 LBX-23413 - Custom Terms & Conditions
