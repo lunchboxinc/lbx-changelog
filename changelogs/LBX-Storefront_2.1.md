@@ -1,3 +1,7 @@
+## v1.1.5 - <span class="utc-date">2025-06-13T11:12:40Z</span>
+
+LBX-21027 - implement dynamic stock check with greyed-out styling and cursor adjustments for out-of-stock items
+
 ## v1.1.4 - <span class="utc-date">2025-06-12T12:27:37Z</span>
 
 LBX-23917 - move rewards configuration from branding.rewards to display_options
