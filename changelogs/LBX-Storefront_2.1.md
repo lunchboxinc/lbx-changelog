@@ -1,3 +1,7 @@
+## v1.1.6 - <span class="utc-date">2025-06-13T15:32:22Z</span>
+
+LBX-23990 - foreign auth login
+
 ## v1.1.5 - <span class="utc-date">2025-06-13T11:12:40Z</span>
 
 LBX-21027 - implement dynamic stock check with greyed-out styling and cursor adjustments for out-of-stock items
