@@ -1,3 +1,16 @@
+## 0.10.2 - <span class="utc-date">2025-06-18T14:14:00Z</span>
+
+## What's Changed
+* version/0.9.11 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/870
+* version/0.10.0 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/879
+* version/0.10.1 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/881
+* LBX-24042: Update GET /user-wallet with orderBy by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/882
+* LBX-24059: Add additional order fields by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/883
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/0.10.1...0.10.2
+
+
 ## 0.10.1 - <span class="utc-date">2025-06-09T12:47:50Z</span>
 
 ## What's Changed
