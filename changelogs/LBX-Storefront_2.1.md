@@ -1,3 +1,7 @@
+## v1.1.8 - <span class="utc-date">2025-06-23T19:49:47Z</span>
+
+LBX-24142, LBX-24164, LBX-24104 prioritize item.type == 'marketing' check in click handlers
+
 ## v1.1.7 - <span class="utc-date">2025-06-23T17:05:53Z</span>
 
 LBX-24117 - fix: set minimum guest count validation to 1
