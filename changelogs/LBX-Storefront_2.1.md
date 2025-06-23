@@ -1,3 +1,7 @@
+## v1.1.7 - <span class="utc-date">2025-06-23T17:05:53Z</span>
+
+LBX-24117 - fix: set minimum guest count validation to 1
+
 ## v1.1.6 - <span class="utc-date">2025-06-13T15:32:22Z</span>
 
 LBX-23990 - foreign auth login
