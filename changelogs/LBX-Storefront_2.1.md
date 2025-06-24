@@ -1,3 +1,7 @@
+## v1.1.9 - <span class="utc-date">2025-06-24T14:34:01Z</span>
+
+LBX-24105 -fix: center allergen tooltips and increase z-index to prevent overlap
+
 ## v1.1.8 - <span class="utc-date">2025-06-23T19:49:47Z</span>
 
 LBX-24142, LBX-24164, LBX-24104 prioritize item.type == 'marketing' check in click handlers
