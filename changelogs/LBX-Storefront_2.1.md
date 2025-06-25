@@ -1,3 +1,7 @@
+## v1.1.10 - <span class="utc-date">2025-06-25T10:08:12Z</span>
+
+LBX-22688 - fix : initialize datalayer 
+
 ## v1.1.9 - <span class="utc-date">2025-06-24T14:34:01Z</span>
 
 LBX-24105 -fix: center allergen tooltips and increase z-index to prevent overlap
