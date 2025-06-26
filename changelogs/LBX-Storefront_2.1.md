@@ -1,3 +1,7 @@
+## v1.1.11 - <span class="utc-date">2025-06-26T18:43:12Z</span>
+
+LBX-24202 - sort services by display_order
+
 ## v1.1.10 - <span class="utc-date">2025-06-25T10:08:12Z</span>
 
 LBX-22688 - fix : initialize datalayer 
