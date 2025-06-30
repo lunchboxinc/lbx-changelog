@@ -1,3 +1,7 @@
+## v1.1.12 - <span class="utc-date">2025-06-30T12:50:35Z</span>
+
+LBX-24218 - prevent duplicate validation messages on both password fields
+
 ## v1.1.11 - <span class="utc-date">2025-06-26T18:43:12Z</span>
 
 LBX-24202 - sort services by display_order
