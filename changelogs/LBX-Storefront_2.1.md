@@ -1,3 +1,7 @@
+## v1.1.13 - <span class="utc-date">2025-06-30T16:16:47Z</span>
+
+LBX-24240 - feat: show delivery fee /home/runner/work/_temp/d422b990-d956-43de-82dc-77ecf43b4390.sh for delivery orders in cart, checkout, confirmation and receipts
+
 ## v1.1.12 - <span class="utc-date">2025-06-30T12:50:35Z</span>
 
 LBX-24218 - prevent duplicate validation messages on both password fields
