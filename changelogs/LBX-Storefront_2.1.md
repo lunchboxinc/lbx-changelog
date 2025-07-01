@@ -1,3 +1,7 @@
+## v1.1.14 - <span class="utc-date">2025-07-01T12:34:37Z</span>
+
+LBX-24201 - fix: customer_id null validation error for logged-in users
+
 ## v1.1.13 - <span class="utc-date">2025-06-30T16:16:47Z</span>
 
 LBX-24240 - feat: show delivery fee /home/runner/work/_temp/d422b990-d956-43de-82dc-77ecf43b4390.sh for delivery orders in cart, checkout, confirmation and receipts
