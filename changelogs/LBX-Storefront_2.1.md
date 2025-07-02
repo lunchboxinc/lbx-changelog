@@ -1,3 +1,7 @@
+## v1.1.15 - <span class="utc-date">2025-07-02T20:07:37Z</span>
+
+LBX-24289 - fix: prevent GenericErrorModal infinite loop on OK click
+
 ## v1.1.14 - <span class="utc-date">2025-07-01T12:34:37Z</span>
 
 LBX-24201 - fix: customer_id null validation error for logged-in users
