@@ -1,3 +1,7 @@
+## v1.1.16 - <span class="utc-date">2025-07-02T20:46:19Z</span>
+
+LBX-23743 - Shift4
+
 ## v1.1.15 - <span class="utc-date">2025-07-02T20:07:37Z</span>
 
 LBX-24289 - fix: prevent GenericErrorModal infinite loop on OK click
