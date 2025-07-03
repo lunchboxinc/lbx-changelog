@@ -1,3 +1,7 @@
+## v1.2.1 - <span class="utc-date">2025-07-03T15:48:33Z</span>
+
+feat: Add X-Frame-Options and CSP frame-ancestors headers
+
 ## v1.2.0 - <span class="utc-date">2025-07-03T14:37:39Z</span>
 
 LBX-22780, LBX-24044 - Bank Loyalty and Events
