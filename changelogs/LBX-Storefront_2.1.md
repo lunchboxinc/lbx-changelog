@@ -1,3 +1,7 @@
+## v1.2.0 - <span class="utc-date">2025-07-03T14:37:39Z</span>
+
+LBX-22780, LBX-24044 - Bank Loyalty and Events
+
 ## v1.1.16 - <span class="utc-date">2025-07-02T20:46:19Z</span>
 
 LBX-23743 - Shift4
