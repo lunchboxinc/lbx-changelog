@@ -1,3 +1,7 @@
+## v1.2.3 - <span class="utc-date">2025-07-08T13:52:23Z</span>
+
+fix: prevent NeedTimeModal infinite loop on OK click
+
 ## v1.2.2 - <span class="utc-date">2025-07-04T11:36:55Z</span>
 
 LBX-24118 - fix: prevent phone numbers starting with 0 or 1 in US validation
