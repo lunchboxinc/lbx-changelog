@@ -1,3 +1,7 @@
+## v1.2.4 - <span class="utc-date">2025-07-08T17:21:40Z</span>
+
+LBX-24232 - feat: update SMS opt-in text for twilio
+
 ## v1.2.3 - <span class="utc-date">2025-07-08T13:52:23Z</span>
 
 fix: prevent NeedTimeModal infinite loop on OK click
