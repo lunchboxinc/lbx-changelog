@@ -1,3 +1,7 @@
+## v1.2.5 - <span class="utc-date">2025-07-10T15:27:42Z</span>
+
+LBX-24306 - fix: sort child_items by modifier order in addToCart method
+
 ## v1.2.4 - <span class="utc-date">2025-07-08T17:21:40Z</span>
 
 LBX-24232 - feat: update SMS opt-in text for twilio
