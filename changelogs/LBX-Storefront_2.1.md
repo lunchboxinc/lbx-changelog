@@ -1,3 +1,7 @@
+## v1.2.7 - <span class="utc-date">2025-07-14T15:58:49Z</span>
+
+LBX-24401 - fix: guest phone verification modal not respecting updated phone number
+
 ## v1.2.6 - <span class="utc-date">2025-07-14T14:45:36Z</span>
 
 LBX-24384 - Multiple Pop Up of 'Update Order Time'
