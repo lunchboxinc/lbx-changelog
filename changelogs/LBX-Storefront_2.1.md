@@ -1,3 +1,7 @@
+## v1.2.6 - <span class="utc-date">2025-07-14T14:45:36Z</span>
+
+LBX-24384 - Multiple Pop Up of 'Update Order Time'
+
 ## v1.2.5 - <span class="utc-date">2025-07-10T15:27:42Z</span>
 
 LBX-24306 - fix: sort child_items by modifier order in addToCart method
