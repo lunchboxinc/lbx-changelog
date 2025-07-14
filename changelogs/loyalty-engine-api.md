@@ -1,3 +1,15 @@
+## 0.10.4 - <span class="utc-date">2025-07-14T19:49:20Z</span>
+
+## What's Changed
+* task/0.10.2 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/884
+* Reuploading to prod by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/885
+* LBX-24146: Update brace-expansion package by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/886
+* LBX-24421: Update signup event to pass expiration by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/887
+* version/0.10.4 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/888
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/0.10.2...0.10.4
+
 ## 0.10.2 - <span class="utc-date">2025-06-18T14:14:00Z</span>
 
 ## What's Changed
