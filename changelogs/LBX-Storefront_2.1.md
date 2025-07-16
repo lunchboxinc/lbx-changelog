@@ -1,3 +1,7 @@
+## v1.2.8 - <span class="utc-date">2025-07-16T12:34:40Z</span>
+
+LBX-24396 - fix: improve OtherTip modal input validation and formatting
+
 ## v1.2.7 - <span class="utc-date">2025-07-14T15:58:49Z</span>
 
 LBX-24401 - fix: guest phone verification modal not respecting updated phone number
