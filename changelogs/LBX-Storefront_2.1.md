@@ -1,3 +1,7 @@
+## v1.2.9 - <span class="utc-date">2025-07-17T10:56:02Z</span>
+
+LBX-24430 - feat: keep in-cart quantity adjustment controls expanded
+
 ## v1.2.8 - <span class="utc-date">2025-07-16T12:34:40Z</span>
 
 LBX-24396 - fix: improve OtherTip modal input validation and formatting
