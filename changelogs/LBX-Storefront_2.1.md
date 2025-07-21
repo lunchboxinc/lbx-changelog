@@ -1,3 +1,7 @@
+## v1.2.11 - <span class="utc-date">2025-07-21T15:49:42Z</span>
+
+LBX-24497 - fix: call updatePartialAmount when partialAmount exists and orderData changes
+
 ## v1.2.10 - <span class="utc-date">2025-07-21T10:58:49Z</span>
 
 LBX-24355 - fix: store hours showing closed
