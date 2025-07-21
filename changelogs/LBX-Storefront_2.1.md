@@ -1,3 +1,7 @@
+## v1.2.10 - <span class="utc-date">2025-07-21T10:58:49Z</span>
+
+LBX-24355 - fix: store hours showing closed
+
 ## v1.2.9 - <span class="utc-date">2025-07-17T10:56:02Z</span>
 
 LBX-24430 - feat: keep in-cart quantity adjustment controls expanded
