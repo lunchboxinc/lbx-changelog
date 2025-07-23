@@ -1,3 +1,7 @@
+## v1.2.12 - <span class="utc-date">2025-07-23T10:19:19Z</span>
+
+LBX-24498 - Delivery Address and Apt/Suite Details Removed When Switching
+
 ## v1.2.11 - <span class="utc-date">2025-07-21T15:49:42Z</span>
 
 LBX-24497 - fix: call updatePartialAmount when partialAmount exists and orderData changes
