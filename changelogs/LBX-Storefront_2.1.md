@@ -1,3 +1,7 @@
+## v1.2.13 - <span class="utc-date">2025-07-28T11:33:28Z</span>
+
+LBX-24282 - Item-Based Checkout Selection
+
 ## v1.2.12 - <span class="utc-date">2025-07-23T10:19:19Z</span>
 
 LBX-24498 - Delivery Address and Apt/Suite Details Removed When Switching
