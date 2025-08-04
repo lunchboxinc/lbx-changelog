@@ -1,3 +1,7 @@
+## v1.2.14 - <span class="utc-date">2025-08-04T10:56:02Z</span>
+
+LBX-24004 - fix: prevent duplicate payments by using global loader state
+
 ## v1.2.13 - <span class="utc-date">2025-07-28T11:33:28Z</span>
 
 LBX-24282 - Item-Based Checkout Selection
