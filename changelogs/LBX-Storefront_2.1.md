@@ -1,3 +1,7 @@
+## v1.2.15 - <span class="utc-date">2025-08-05T13:05:22Z</span>
+
+LBX-24501 - suppress order bump time
+
 ## v1.2.14 - <span class="utc-date">2025-08-04T10:56:02Z</span>
 
 LBX-24004 - fix: prevent duplicate payments by using global loader state
