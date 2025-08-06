@@ -1,3 +1,7 @@
+## v1.2.16 - <span class="utc-date">2025-08-06T09:14:05Z</span>
+
+LBX-24711 -  fix: remove unwanted border from item detail modal image
+
 ## v1.2.15 - <span class="utc-date">2025-08-05T13:05:22Z</span>
 
 LBX-24501 - suppress order bump time
