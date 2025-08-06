@@ -1,3 +1,7 @@
+## v1.2.17 - <span class="utc-date">2025-08-06T14:52:24Z</span>
+
+LBX-24721 - fix: add question mark to Remove Item popup confirmation message
+
 ## v1.2.16 - <span class="utc-date">2025-08-06T09:14:05Z</span>
 
 LBX-24711 -  fix: remove unwanted border from item detail modal image
