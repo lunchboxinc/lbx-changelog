@@ -1,3 +1,7 @@
+## v1.3.1 - <span class="utc-date">2025-08-12T12:13:57Z</span>
+
+LBX-24770 : fix: enforce 100-char limit and show specific error for Adress Details
+
 ## v1.3.0 - <span class="utc-date">2025-08-12T10:56:29Z</span>
 
 LBX-21871 - feat: update QTY logic for 1/2 & 1/2 modifiers
