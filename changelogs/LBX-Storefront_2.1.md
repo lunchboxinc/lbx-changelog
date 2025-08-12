@@ -1,3 +1,7 @@
+## v1.3.0 - <span class="utc-date">2025-08-12T10:56:29Z</span>
+
+LBX-21871 - feat: update QTY logic for 1/2 & 1/2 modifiers
+
 ## v1.2.17 - <span class="utc-date">2025-08-06T14:52:24Z</span>
 
 LBX-24721 - fix: add question mark to Remove Item popup confirmation message
