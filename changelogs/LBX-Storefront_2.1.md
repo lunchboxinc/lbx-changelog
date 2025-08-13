@@ -1,3 +1,7 @@
+## v1.3.3 - <span class="utc-date">2025-08-13T15:38:07Z</span>
+
+LBX-24760 - feat : add additional return URL
+
 ## v1.3.2 - <span class="utc-date">2025-08-13T09:55:37Z</span>
 
 LBX-23484 - feat: add delivery_provider_grace_period flag support for ASAP ordering
