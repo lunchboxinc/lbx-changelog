@@ -1,3 +1,7 @@
+## v1.3.2 - <span class="utc-date">2025-08-13T09:55:37Z</span>
+
+LBX-23484 - feat: add delivery_provider_grace_period flag support for ASAP ordering
+
 ## v1.3.1 - <span class="utc-date">2025-08-12T12:13:57Z</span>
 
 LBX-24770 : fix: enforce 100-char limit and show specific error for Adress Details
