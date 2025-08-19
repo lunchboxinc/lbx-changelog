@@ -1,3 +1,7 @@
+## v1.4.0 - <span class="utc-date">2025-08-19T10:19:22Z</span>
+
+LBX-22780 - Banked Loyalty
+
 ## v1.3.4 - <span class="utc-date">2025-08-18T17:16:55Z</span>
 
 LBX-24576 - feat: add apple pay billing contact fields with unleashed feature flag #419
