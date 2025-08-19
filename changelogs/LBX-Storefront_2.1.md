@@ -1,3 +1,7 @@
+## v1.4.2 - <span class="utc-date">2025-08-19T13:13:12Z</span>
+
+LBX-24871 - feat: handle empty service_schedule with store closed message
+
 ## v1.4.1 - <span class="utc-date">2025-08-19T11:57:47Z</span>
 
 LBX-24879 - feat: add no_url toggle for marketing box display
