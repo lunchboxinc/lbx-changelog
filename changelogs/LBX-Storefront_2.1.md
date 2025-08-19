@@ -1,3 +1,7 @@
+## v1.4.1 - <span class="utc-date">2025-08-19T11:57:47Z</span>
+
+LBX-24879 - feat: add no_url toggle for marketing box display
+
 ## v1.4.0 - <span class="utc-date">2025-08-19T10:19:22Z</span>
 
 LBX-22780 - Banked Loyalty
