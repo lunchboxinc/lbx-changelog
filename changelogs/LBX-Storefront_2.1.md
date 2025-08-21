@@ -1,3 +1,7 @@
+## v1.4.4 - <span class="utc-date">2025-08-21T20:35:27Z</span>
+
+LBX-24924 - fix: resolve address validation issue for catering delivery orders 
+
 ## v1.4.3 - <span class="utc-date">2025-08-21T13:51:14Z</span>
 
 LBX-24535 - Coralogix
