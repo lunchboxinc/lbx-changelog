@@ -1,3 +1,7 @@
+## v1.4.3 - <span class="utc-date">2025-08-21T13:51:14Z</span>
+
+LBX-24535 - Coralogix
+
 ## v1.4.2 - <span class="utc-date">2025-08-19T13:13:12Z</span>
 
 LBX-24871 - feat: handle empty service_schedule with store closed message
