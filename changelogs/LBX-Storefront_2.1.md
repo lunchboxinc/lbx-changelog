@@ -1,3 +1,7 @@
+## v1.4.5 - <span class="utc-date">2025-08-28T16:06:27Z</span>
+
+LBX-24925 - fix: persist include_out_of_stock setting in localStorage
+
 ## v1.4.4 - <span class="utc-date">2025-08-21T20:35:27Z</span>
 
 LBX-24924 - fix: resolve address validation issue for catering delivery orders 
