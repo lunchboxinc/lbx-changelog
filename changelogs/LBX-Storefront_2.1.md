@@ -1,3 +1,7 @@
+## v1.4.6 - <span class="utc-date">2025-09-04T14:23:26Z</span>
+
+feat: allow ASAP delivery orders up until close when grace period is enabled
+
 ## v1.4.5 - <span class="utc-date">2025-08-28T16:06:27Z</span>
 
 LBX-24925 - fix: persist include_out_of_stock setting in localStorage
