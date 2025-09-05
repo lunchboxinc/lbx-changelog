@@ -1,3 +1,7 @@
+## v1.4.7 - <span class="utc-date">2025-09-05T13:36:00Z</span>
+
+LBX-25037 - feat: update rewards progress bar text format
+
 ## v1.4.6 - <span class="utc-date">2025-09-04T14:23:26Z</span>
 
 feat: allow ASAP delivery orders up until close when grace period is enabled
