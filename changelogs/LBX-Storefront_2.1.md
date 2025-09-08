@@ -1,3 +1,7 @@
+## v1.4.8 - <span class="utc-date">2025-09-08T19:18:06Z</span>
+
+LBX-25108 - fix: remove package-lock.json from .gitignore
+
 ## v1.4.7 - <span class="utc-date">2025-09-05T13:36:00Z</span>
 
 LBX-25037 - feat: update rewards progress bar text format
