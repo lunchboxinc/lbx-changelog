@@ -1,3 +1,7 @@
+## v1.4.9 - <span class="utc-date">2025-09-11T11:37:37Z</span>
+
+LBX-25130 - feat: add remove from favorites button on Favorite Items page
+
 ## v1.4.8 - <span class="utc-date">2025-09-08T19:18:06Z</span>
 
 LBX-25108 - fix: remove package-lock.json from .gitignore
