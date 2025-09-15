@@ -1,3 +1,7 @@
+## v1.4.10 - <span class="utc-date">2025-09-15T10:09:57Z</span>
+
+LBX-25055 - feat: auto-select service from query, skip modal, clean URL
+
 ## v1.4.9 - <span class="utc-date">2025-09-11T11:37:37Z</span>
 
 LBX-25130 - feat: add remove from favorites button on Favorite Items page
