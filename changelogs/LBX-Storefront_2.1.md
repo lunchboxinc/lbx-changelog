@@ -1,3 +1,7 @@
+## v1.4.12 - <span class="utc-date">2025-09-16T14:40:32Z</span>
+
+LBX-25150 - fix: update Coralogix SDK to v2.10.0 and fix session recording config
+
 ## v1.4.11 - <span class="utc-date">2025-09-16T08:41:49Z</span>
 
 LBX-25045 - a special cases object has been created for allergens and classes
