@@ -1,3 +1,7 @@
+## v1.4.11 - <span class="utc-date">2025-09-16T08:41:49Z</span>
+
+LBX-25045 - a special cases object has been created for allergens and classes
+
 ## v1.4.10 - <span class="utc-date">2025-09-15T10:09:57Z</span>
 
 LBX-25055 - feat: auto-select service from query, skip modal, clean URL
