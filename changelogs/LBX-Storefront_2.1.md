@@ -1,3 +1,7 @@
+## v1.4.13 - <span class="utc-date">2025-09-17T15:46:24Z</span>
+
+LBX-25056 - feat: add CA+US country code logic for Radar autocomplete
+
 ## v1.4.12 - <span class="utc-date">2025-09-16T14:40:32Z</span>
 
 LBX-25150 - fix: update Coralogix SDK to v2.10.0 and fix session recording config
