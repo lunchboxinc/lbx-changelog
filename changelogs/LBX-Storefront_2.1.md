@@ -1,3 +1,7 @@
+## v1.4.14 - <span class="utc-date">2025-09-18T15:20:49Z</span>
+
+LBX-25212 - feat: add check-in button warnings for too early/late states
+
 ## v1.4.13 - <span class="utc-date">2025-09-17T15:46:24Z</span>
 
 LBX-25056 - feat: add CA+US country code logic for Radar autocomplete
