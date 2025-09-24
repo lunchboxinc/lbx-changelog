@@ -1,3 +1,7 @@
+## v1.4.15 - <span class="utc-date">2025-09-24T14:08:49Z</span>
+
+LBX-25256 - fix: scope qty by group to avoid cross‑group changes
+
 ## v1.4.14 - <span class="utc-date">2025-09-18T15:20:49Z</span>
 
 LBX-25212 - feat: add check-in button warnings for too early/late states
