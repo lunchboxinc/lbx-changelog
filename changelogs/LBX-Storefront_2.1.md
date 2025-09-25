@@ -1,3 +1,8 @@
+## v1.4.16 - <span class="utc-date">2025-09-25T14:51:29Z</span>
+
+LBX-25311 - fix: close info windows on all service type changes
+
+
 ## v1.4.15 - <span class="utc-date">2025-09-24T14:08:49Z</span>
 
 LBX-25256 - fix: scope qty by group to avoid cross‑group changes
