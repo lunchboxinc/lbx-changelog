@@ -1,3 +1,7 @@
+## v1.4.18 - <span class="utc-date">2025-10-01T15:28:03Z</span>
+
+LBX-25058 - feat: update delivery instructions to use service_type_id instead of catering group_name
+
 ## v1.4.17 - <span class="utc-date">2025-10-01T10:45:27Z</span>
 
 LBX-25344 - feat: add accessiBe ADA compliance script
