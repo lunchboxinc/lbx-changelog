@@ -1,3 +1,7 @@
+## v1.4.17 - <span class="utc-date">2025-10-01T10:45:27Z</span>
+
+LBX-25344 - feat: add accessiBe ADA compliance script
+
 ## v1.4.16 - <span class="utc-date">2025-09-25T14:51:29Z</span>
 
 LBX-25311 - fix: close info windows on all service type changes
