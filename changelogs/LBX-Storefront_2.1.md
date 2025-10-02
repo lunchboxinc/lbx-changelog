@@ -1,3 +1,7 @@
+## v1.4.19 - <span class="utc-date">2025-10-02T14:31:31Z</span>
+
+LBX-25369 - fix: correct hide tiers toggle path in RewardsView
+
 ## v1.4.18 - <span class="utc-date">2025-10-01T15:28:03Z</span>
 
 LBX-25058 - feat: update delivery instructions to use service_type_id instead of catering group_name
