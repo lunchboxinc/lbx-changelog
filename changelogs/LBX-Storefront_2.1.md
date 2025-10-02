@@ -1,3 +1,7 @@
+## v1.4.20 - <span class="utc-date">2025-10-02T15:41:41Z</span>
+
+LBX-25366 - feat: enhance check-in button with real-time status updates and spam protection
+
 ## v1.4.19 - <span class="utc-date">2025-10-02T14:31:31Z</span>
 
 LBX-25369 - fix: correct hide tiers toggle path in RewardsView
