@@ -1,3 +1,7 @@
+## v1.4.21 - <span class="utc-date">2025-10-06T11:41:22Z</span>
+
+[LBX-22181] – Sift integration with login/signup (Nadia’s ticket)
+
 ## v1.4.20 - <span class="utc-date">2025-10-02T15:41:41Z</span>
 
 LBX-25366 - feat: enhance check-in button with real-time status updates and spam protection
