@@ -1,3 +1,7 @@
+## v1.4.22 - <span class="utc-date">2025-10-07T16:09:47Z</span>
+
+LBX-25108 - security: upgrade jsPDF and DOMPurify to fix critical vulnerabilities
+
 ## v1.4.21 - <span class="utc-date">2025-10-06T11:41:22Z</span>
 
 [LBX-22181] – Sift integration with login/signup (Nadia’s ticket)
