@@ -1,3 +1,7 @@
+## v1.4.23 - <span class="utc-date">2025-10-08T15:45:33Z</span>
+
+LBX-25290 - remove unnecessary environment switch case in GooglePay.vue
+
 ## v1.4.22 - <span class="utc-date">2025-10-07T16:09:47Z</span>
 
 LBX-25108 - security: upgrade jsPDF and DOMPurify to fix critical vulnerabilities
