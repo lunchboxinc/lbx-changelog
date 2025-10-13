@@ -1,3 +1,7 @@
+## v1.4.24 - <span class="utc-date">2025-10-13T16:20:32Z</span>
+
+LBX-25055 - fix: sift session_id bug and service_type_id query handling
+
 ## v1.4.23 - <span class="utc-date">2025-10-08T15:45:33Z</span>
 
 LBX-25290 - remove unnecessary environment switch case in GooglePay.vue
