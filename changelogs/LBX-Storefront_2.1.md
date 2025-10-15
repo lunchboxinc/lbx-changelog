@@ -1,3 +1,7 @@
+## v1.4.26 - <span class="utc-date">2025-10-15T17:40:37Z</span>
+
+LBX-25535 - fix: add optional chaining for point_balances in rewards view
+
 ## v1.4.25 - <span class="utc-date">2025-10-15T15:22:19Z</span>
 
 fix: hide paymentInfo div when empty
