@@ -1,3 +1,7 @@
+## v1.4.25 - <span class="utc-date">2025-10-15T15:22:19Z</span>
+
+fix: hide paymentInfo div when empty
+
 ## v1.4.24 - <span class="utc-date">2025-10-13T16:20:32Z</span>
 
 LBX-25055 - fix: sift session_id bug and service_type_id query handling
