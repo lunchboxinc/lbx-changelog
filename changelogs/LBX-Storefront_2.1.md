@@ -1,3 +1,7 @@
+## v1.4.27 - <span class="utc-date">2025-10-20T14:33:15Z</span>
+
+feat: update password reset success message to include spam folder guidance
+
 ## v1.4.26 - <span class="utc-date">2025-10-15T17:40:37Z</span>
 
 LBX-25535 - fix: add optional chaining for point_balances in rewards view
