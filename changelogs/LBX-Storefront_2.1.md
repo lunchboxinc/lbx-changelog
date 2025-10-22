@@ -1,3 +1,7 @@
+## v1.4.31 - <span class="utc-date">2025-10-22T19:34:52Z</span>
+
+LBX-25625 - fix: display order status on confirmation view for cancelled/refunded orders
+
 ## v1.4.30 - <span class="utc-date">2025-10-22T15:22:12Z</span>
 
 Fix: date time modal nextday handling
