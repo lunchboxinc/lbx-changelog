@@ -1,3 +1,7 @@
+## v1.4.29 - <span class="utc-date">2025-10-22T14:11:25Z</span>
+
+fix: show location info on checkout when store address is hidden
+
 ## v1.4.28 - <span class="utc-date">2025-10-22T12:58:15Z</span>
 
 feat: Add SSO options to LoginView
