@@ -1,3 +1,7 @@
+## v1.4.30 - <span class="utc-date">2025-10-22T15:22:12Z</span>
+
+Fix: date time modal nextday handling
+
 ## v1.4.29 - <span class="utc-date">2025-10-22T14:11:25Z</span>
 
 fix: show location info on checkout when store address is hidden
