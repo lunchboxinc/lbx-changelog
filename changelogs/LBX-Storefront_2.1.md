@@ -1,3 +1,7 @@
+## v1.4.28 - <span class="utc-date">2025-10-22T12:58:15Z</span>
+
+feat: Add SSO options to LoginView
+
 ## v1.4.27 - <span class="utc-date">2025-10-20T14:33:15Z</span>
 
 feat: update password reset success message to include spam folder guidance
