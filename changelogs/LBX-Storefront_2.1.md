@@ -1,3 +1,7 @@
+## v1.5.0 - <span class="utc-date">2025-10-27T10:02:32Z</span>
+
+Quick Reorder
+
 ## v1.4.31 - <span class="utc-date">2025-10-22T19:34:52Z</span>
 
 LBX-25625 - fix: display order status on confirmation view for cancelled/refunded orders
