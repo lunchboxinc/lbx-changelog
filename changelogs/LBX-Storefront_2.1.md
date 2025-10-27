@@ -1,3 +1,7 @@
+## v1.5.1 - <span class="utc-date">2025-10-27T18:00:29Z</span>
+
+LBX-25597 - feat: add UserWay accessibility widget with environment variable control
+
 ## v1.5.0 - <span class="utc-date">2025-10-27T10:02:32Z</span>
 
 Quick Reorder
