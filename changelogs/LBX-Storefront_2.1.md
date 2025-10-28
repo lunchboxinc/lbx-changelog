@@ -1,3 +1,7 @@
+## v1.5.2 - <span class="utc-date">2025-10-28T12:54:10Z</span>
+
+LBX-25646 - feature: menu view service type query param
+
 ## v1.5.1 - <span class="utc-date">2025-10-27T18:00:29Z</span>
 
 LBX-25597 - feat: add UserWay accessibility widget with environment variable control
