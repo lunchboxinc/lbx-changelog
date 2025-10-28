@@ -1,3 +1,7 @@
+## v1.5.3 - <span class="utc-date">2025-10-28T15:30:07Z</span>
+
+LBX-25685 - fix: date and service type selection for visually impaired
+
 ## v1.5.2 - <span class="utc-date">2025-10-28T12:54:10Z</span>
 
 LBX-25646 - feature: menu view service type query param
