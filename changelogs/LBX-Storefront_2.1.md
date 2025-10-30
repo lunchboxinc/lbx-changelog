@@ -1,3 +1,7 @@
+## v1.5.4 - <span class="utc-date">2025-10-30T15:23:07Z</span>
+
+LBX-25717 - feat: add reward price display to RewardsView
+
 ## v1.5.3 - <span class="utc-date">2025-10-28T15:30:07Z</span>
 
 LBX-25685 - fix: date and service type selection for visually impaired
