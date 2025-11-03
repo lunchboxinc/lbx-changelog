@@ -1,3 +1,7 @@
+## v1.5.6 - <span class="utc-date">2025-11-03T10:45:21Z</span>
+
+LBX-25720 - feat: add ASAP unavailable warning message on reorder
+
 ## v1.5.5 - <span class="utc-date">2025-10-31T11:14:33Z</span>
 
 LBX-25625 - fix: display correct status messages on order confirmation page
