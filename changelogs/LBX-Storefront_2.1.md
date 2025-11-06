@@ -1,3 +1,7 @@
+## v1.5.7 - <span class="utc-date">2025-11-06T12:47:56Z</span>
+
+LBX-25770 - fix: exclude Dine In orders from Reorder button on Order Details Page
+
 ## v1.5.6 - <span class="utc-date">2025-11-03T10:45:21Z</span>
 
 LBX-25720 - feat: add ASAP unavailable warning message on reorder
