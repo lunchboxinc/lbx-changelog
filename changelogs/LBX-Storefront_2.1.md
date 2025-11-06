@@ -1,3 +1,7 @@
+## v1.5.8 - <span class="utc-date">2025-11-06T13:52:12Z</span>
+
+LBX-25743 - feat: add scale and compressionQuality to Coralogix session recording
+
 ## v1.5.7 - <span class="utc-date">2025-11-06T12:47:56Z</span>
 
 LBX-25770 - fix: exclude Dine In orders from Reorder button on Order Details Page
