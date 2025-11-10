@@ -1,3 +1,7 @@
+## v1.5.9 - <span class="utc-date">2025-11-10T10:08:53Z</span>
+
+LBX-25800 - feature: radar autocomplete country codes
+
 ## v1.5.8 - <span class="utc-date">2025-11-06T13:52:12Z</span>
 
 LBX-25743 - feat: add scale and compressionQuality to Coralogix session recording
