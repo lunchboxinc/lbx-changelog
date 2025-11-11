@@ -1,3 +1,7 @@
+## v1.5.10 - <span class="utc-date">2025-11-11T13:53:19Z</span>
+
+LBX-25846 - fix: correct autocomplete reset call for RADAR/Google
+
 ## v1.5.9 - <span class="utc-date">2025-11-10T10:08:53Z</span>
 
 LBX-25800 - feature: radar autocomplete country codes
