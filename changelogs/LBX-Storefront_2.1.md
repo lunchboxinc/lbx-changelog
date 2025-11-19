@@ -1,3 +1,7 @@
+## v1.5.11 - <span class="utc-date">2025-11-19T11:50:27Z</span>
+
+LBX-25894 - fix: calorie display positioning
+
 ## v1.5.10 - <span class="utc-date">2025-11-11T13:53:19Z</span>
 
 LBX-25846 - fix: correct autocomplete reset call for RADAR/Google
