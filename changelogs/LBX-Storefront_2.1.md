@@ -1,3 +1,7 @@
+## v1.5.13 - <span class="utc-date">2025-12-01T14:20:16Z</span>
+
+LBX-25792 - international phone input
+
 ## v1.5.12 - <span class="utc-date">2025-12-01T08:35:43Z</span>
 
 LBX-25909 - feat: improve LoginView UI and conditional rendering
