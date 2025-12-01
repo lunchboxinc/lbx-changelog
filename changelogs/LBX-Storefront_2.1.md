@@ -1,3 +1,7 @@
+## v1.5.12 - <span class="utc-date">2025-12-01T08:35:43Z</span>
+
+LBX-25909 - feat: improve LoginView UI and conditional rendering
+
 ## v1.5.11 - <span class="utc-date">2025-11-19T11:50:27Z</span>
 
 LBX-25894 - fix: calorie display positioning
