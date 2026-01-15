@@ -1,3 +1,7 @@
+## v1.5.14 - <span class="utc-date">2026-01-15T14:04:43Z</span>
+
+LBX-26286: feat - add confirm recipient email input to validate email for purchasing gift cards
+
 ## v1.5.13 - <span class="utc-date">2025-12-01T14:20:16Z</span>
 
 LBX-25792 - international phone input
