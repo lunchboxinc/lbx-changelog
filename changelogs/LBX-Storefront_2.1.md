@@ -1,3 +1,7 @@
+## v1.5.15 - <span class="utc-date">2026-01-20T08:53:55Z</span>
+
+LBX-26243 -  feat: enable autofill for card fields
+
 ## v1.5.14 - <span class="utc-date">2026-01-15T14:04:43Z</span>
 
 LBX-26286: feat - add confirm recipient email input to validate email for purchasing gift cards
