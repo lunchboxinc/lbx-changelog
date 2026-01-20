@@ -1,3 +1,7 @@
+## v1.6.0 - <span class="utc-date">2026-01-20T10:54:29Z</span>
+
+LBX-25467 - feature: order history UI update
+
 ## v1.5.15 - <span class="utc-date">2026-01-20T08:53:55Z</span>
 
 LBX-26243 -  feat: enable autofill for card fields
