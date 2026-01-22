@@ -1,3 +1,7 @@
+## v1.6.1 - <span class="utc-date">2026-01-22T15:43:34Z</span>
+
+LBX-26237 - feature: checkout validate payment on load
+
 ## v1.6.0 - <span class="utc-date">2026-01-20T10:54:29Z</span>
 
 LBX-25467 - feature: order history UI update
