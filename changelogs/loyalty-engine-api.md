@@ -1,3 +1,36 @@
+## 1.0.0 - <span class="utc-date">2026-01-29T19:09:36Z</span>
+
+## What's Changed
+* Bump form-data from 4.0.2 to 4.0.4 by @dependabot[bot] in https://github.com/lunchboxinc/loyalty-engine-api/pull/889
+* feat/LBX 24558 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/891
+* LBX-24558: Add default to lifetimepoints by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/892
+* Fix record id for csv file name by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/893
+* LBX-24540: Add script to change reward by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/894
+* Bump multer and @nestjs/platform-express by @dependabot[bot] in https://github.com/lunchboxinc/loyalty-engine-api/pull/890
+* version/0.10.5 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/896
+* LBX-25065: Update tmp package by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/898
+* Bump axios from 1.8.4 to 1.12.2 by @dependabot[bot] in https://github.com/lunchboxinc/loyalty-engine-api/pull/900
+* LBX-25435: Fix refunding double rewards by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/901
+* 0.10.6 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/902
+* version/0.10.7 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/903
+* Bump validator from 13.15.0 to 13.15.20 by @dependabot[bot] in https://github.com/lunchboxinc/loyalty-engine-api/pull/904
+* Bump js-yaml from 3.14.1 to 3.14.2 by @dependabot[bot] in https://github.com/lunchboxinc/loyalty-engine-api/pull/905
+* Bump glob and @nestjs/cli by @dependabot[bot] in https://github.com/lunchboxinc/loyalty-engine-api/pull/906
+* version/0.10.8 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/908
+* Update npm package by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/910
+* version/0.10.10 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/914
+* version/0.10.9 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/913
+* version/0.10.11 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/915
+* version/0.10.12 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/919
+* version update 0.10.2 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/920
+* version/1.0.0 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/921
+* develop by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/922
+* LBX-26461 update packages and fix validate by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/923
+* Update main package to static versions by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/924
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/0.10.4...1.0.0
+
 ## 0.10.4 - <span class="utc-date">2025-07-14T19:49:20Z</span>
 
 ## What's Changed
