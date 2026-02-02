@@ -1,3 +1,7 @@
+## v1.6.2 - <span class="utc-date">2026-02-02T11:51:15Z</span>
+
+LBX-26343 - respect is_reorderable flag when getting customer orders
+
 ## v1.6.1 - <span class="utc-date">2026-01-22T15:43:34Z</span>
 
 LBX-26237 - feature: checkout validate payment on load
