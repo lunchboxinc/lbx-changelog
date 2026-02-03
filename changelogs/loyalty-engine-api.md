@@ -1,3 +1,12 @@
+## v1.0.1 - <span class="utc-date">2026-02-03T16:10:02Z</span>
+
+## What's Changed
+* LBX-26435: Add strict validation for aws region by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/925
+* 1.0.1 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/926
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.0...v1.0.1
+
 ## 1.0.0 - <span class="utc-date">2026-01-29T19:09:36Z</span>
 
 ## What's Changed
