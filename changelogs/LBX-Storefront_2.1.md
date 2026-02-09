@@ -1,3 +1,7 @@
+## v1.6.4 - <span class="utc-date">2026-02-09T12:10:48Z</span>
+
+LBX-26551 - fix: await tip before validatePaymentOnLoad so tip is not overwritten
+
 ## v1.6.2 - <span class="utc-date">2026-02-02T11:51:15Z</span>
 
 LBX-26343 - respect is_reorderable flag when getting customer orders
