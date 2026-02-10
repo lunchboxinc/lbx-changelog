@@ -1,3 +1,13 @@
+## 1.0.2 - <span class="utc-date">2026-02-10T15:32:54Z</span>
+
+## What's Changed
+* LBX-26541: Update get event-schedules to have filter deleted by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/929
+* LBX-26542: Remove phone validation from import script by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/928
+* version/1.0.2 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/930
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/v1.0.1...1.0.2
+
 ## v1.0.1 - <span class="utc-date">2026-02-03T16:10:02Z</span>
 
 ## What's Changed
