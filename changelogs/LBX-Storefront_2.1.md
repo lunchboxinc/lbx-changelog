@@ -1,3 +1,7 @@
+## v1.6.5 - <span class="utc-date">2026-02-10T12:38:35Z</span>
+
+LBX-26574 - feat: disable checkout button during order API requests
+
 ## v1.6.4 - <span class="utc-date">2026-02-09T12:10:48Z</span>
 
 LBX-26551 - fix: await tip before validatePaymentOnLoad so tip is not overwritten
