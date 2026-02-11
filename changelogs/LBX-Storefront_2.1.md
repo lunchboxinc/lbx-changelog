@@ -1,3 +1,7 @@
+## v1.7.3 - <span class="utc-date">2026-02-11T21:43:25Z</span>
+
+LBX-26611 - fix:checkout retry after customer update error
+
 ## v1.7.2 - <span class="utc-date">2026-02-11T21:42:32Z</span>
 
 LBX-26610 - hotfix JTA
