@@ -1,3 +1,7 @@
+## v1.7.0 - <span class="utc-date">2026-02-11T16:04:20Z</span>
+
+The proxy has been removed.
+
 ## v1.6.5 - <span class="utc-date">2026-02-10T12:38:35Z</span>
 
 LBX-26574 - feat: disable checkout button during order API requests
