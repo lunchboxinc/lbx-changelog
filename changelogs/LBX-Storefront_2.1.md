@@ -1,3 +1,7 @@
+## v1.7.2 - <span class="utc-date">2026-02-11T21:42:32Z</span>
+
+LBX-26610 - hotfix JTA
+
 ## v1.7.1 - <span class="utc-date">2026-02-11T16:04:50Z</span>
 
 LBX-24544 - feat: use service-level offline_today for open/closed and view hours
