@@ -1,3 +1,7 @@
+## v1.7.1 - <span class="utc-date">2026-02-11T16:04:50Z</span>
+
+LBX-24544 - feat: use service-level offline_today for open/closed and view hours
+
 ## v1.7.0 - <span class="utc-date">2026-02-11T16:04:20Z</span>
 
 The proxy has been removed.
