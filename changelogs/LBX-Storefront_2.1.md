@@ -1,3 +1,7 @@
+## v1.7.4 - <span class="utc-date">2026-02-12T11:22:04Z</span>
+
+chore(security): upgrade jspdf to 4.1.0
+
 ## v1.7.3 - <span class="utc-date">2026-02-11T21:43:25Z</span>
 
 LBX-26611 - fix:checkout retry after customer update error
