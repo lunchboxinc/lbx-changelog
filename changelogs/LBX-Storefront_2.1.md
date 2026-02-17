@@ -1,3 +1,7 @@
+## v1.7.5 - <span class="utc-date">2026-02-17T12:44:15Z</span>
+
+LBX-26645 - fix: remove hardcoded Coralogix key from codebase
+
 ## v1.7.4 - <span class="utc-date">2026-02-12T11:22:04Z</span>
 
 chore(security): upgrade jspdf to 4.1.0
