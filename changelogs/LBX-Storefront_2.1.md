@@ -1,3 +1,7 @@
+## v1.7.8 - <span class="utc-date">2026-02-18T16:36:16Z</span>
+
+chore: add ND-API-Key header to tenant API client
+
 ## v1.7.7 - <span class="utc-date">2026-02-18T14:29:45Z</span>
 
 fix(menus): always include service_type_id on getItem requests
