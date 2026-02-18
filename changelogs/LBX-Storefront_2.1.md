@@ -1,3 +1,7 @@
+## v1.7.6 - <span class="utc-date">2026-02-18T11:42:34Z</span>
+
+Add payment_request.method_data validation for wallet payments
+
 ## v1.7.5 - <span class="utc-date">2026-02-17T12:44:15Z</span>
 
 LBX-26645 - fix: remove hardcoded Coralogix key from codebase
