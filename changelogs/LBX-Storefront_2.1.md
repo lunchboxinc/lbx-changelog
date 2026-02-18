@@ -1,3 +1,7 @@
+## v1.7.7 - <span class="utc-date">2026-02-18T14:29:45Z</span>
+
+fix(menus): always include service_type_id on getItem requests
+
 ## v1.7.6 - <span class="utc-date">2026-02-18T11:42:34Z</span>
 
 Add payment_request.method_data validation for wallet payments
