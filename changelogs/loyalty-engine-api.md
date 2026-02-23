@@ -1,3 +1,13 @@
+## 1.0.5 - <span class="utc-date">2026-02-23T18:04:17Z</span>
+
+## What's Changed
+* task/1.0.4 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/935
+* LBX-26443: Fix user in-active schema by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/937
+* task/1.0.5 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/939
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.4...1.0.5
+
 ## 1.0.4 - <span class="utc-date">2026-02-10T18:14:42Z</span>
 
 ## What's Changed
