@@ -1,3 +1,7 @@
+## v1.7.10 - <span class="utc-date">2026-02-24T17:12:40Z</span>
+
+LBX-26709 - fix(security): upgrade swiper to 12.1.2
+
 ## v1.7.9 - <span class="utc-date">2026-02-24T10:49:29Z</span>
 
 LBX-26688 - fix: use store_locator_country_codes fallback for Radar autocomplete
