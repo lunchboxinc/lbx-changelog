@@ -1,3 +1,7 @@
+## v1.7.9 - <span class="utc-date">2026-02-24T10:49:29Z</span>
+
+LBX-26688 - fix: use store_locator_country_codes fallback for Radar autocomplete
+
 ## v1.7.8 - <span class="utc-date">2026-02-18T16:36:16Z</span>
 
 chore: add ND-API-Key header to tenant API client
