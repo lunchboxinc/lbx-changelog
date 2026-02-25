@@ -1,3 +1,8 @@
+## v1.7.11 - <span class="utc-date">2026-02-25T11:57:46Z</span>
+
+LBX-26185 - fix: popular items match menu items
+
+
 ## v1.7.10 - <span class="utc-date">2026-02-24T17:12:40Z</span>
 
 LBX-26709 - fix(security): upgrade swiper to 12.1.2
