@@ -1,3 +1,7 @@
+## v1.7.12 - <span class="utc-date">2026-02-26T10:15:58Z</span>
+
+LBX-26720 - fix: send removeDiscount payload as query params for DELETE compatibility
+
 ## v1.7.11 - <span class="utc-date">2026-02-25T11:57:46Z</span>
 
 LBX-26185 - fix: popular items match menu items
