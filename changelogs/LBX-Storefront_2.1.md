@@ -1,3 +1,7 @@
+## v1.8.0 - <span class="utc-date">2026-03-02T12:31:04Z</span>
+
+LBX-26319 - Gift Card Management
+
 ## v1.7.12 - <span class="utc-date">2026-02-26T10:15:58Z</span>
 
 LBX-26720 - fix: send removeDiscount payload as query params for DELETE compatibility
