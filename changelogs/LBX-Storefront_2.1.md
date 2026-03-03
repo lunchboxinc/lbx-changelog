@@ -1,3 +1,7 @@
+## v1.8.1 - <span class="utc-date">2026-03-03T10:52:52Z</span>
+
+LBX-26748 - fix: preserve and replay markers after map init to prevent missing pins on refresh
+
 ## v1.8.0 - <span class="utc-date">2026-03-02T12:31:04Z</span>
 
 LBX-26319 - Gift Card Management
