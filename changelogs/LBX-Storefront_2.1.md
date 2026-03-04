@@ -1,3 +1,7 @@
+## v1.8.2 - <span class="utc-date">2026-03-04T14:57:09Z</span>
+
+LBX-26711 - feat: segmented wrap
+
 ## v1.8.1 - <span class="utc-date">2026-03-03T10:52:52Z</span>
 
 LBX-26748 - fix: preserve and replay markers after map init to prevent missing pins on refresh
