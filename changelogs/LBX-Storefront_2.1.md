@@ -1,3 +1,7 @@
+## v1.8.4 - <span class="utc-date">2026-03-09T16:02:53Z</span>
+
+LBX-26281- square payments
+
 ## v1.8.3 - <span class="utc-date">2026-03-09T12:08:39Z</span>
 
 LBX-26612 - ADA Compliance: Main Menu, Item Config, Cart & Checkout
