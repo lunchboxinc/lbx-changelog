@@ -1,3 +1,7 @@
+## v1.8.3 - <span class="utc-date">2026-03-09T12:08:39Z</span>
+
+LBX-26612 - ADA Compliance: Main Menu, Item Config, Cart & Checkout
+
 ## v1.8.2 - <span class="utc-date">2026-03-04T14:57:09Z</span>
 
 LBX-26711 - feat: segmented wrap
