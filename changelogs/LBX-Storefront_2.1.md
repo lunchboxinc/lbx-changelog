@@ -1,3 +1,7 @@
+## v1.8.5 - <span class="utc-date">2026-03-10T09:02:27Z</span>
+
+LBX-26745 - fix: auto-scroll only when first modifier is required
+
 ## v1.8.4 - <span class="utc-date">2026-03-09T16:02:53Z</span>
 
 LBX-26281- square payments
