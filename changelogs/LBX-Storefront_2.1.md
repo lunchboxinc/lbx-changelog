@@ -1,3 +1,7 @@
+## v1.8.6 - <span class="utc-date">2026-03-10T11:30:10Z</span>
+
+LBX-26805 - fix: restore ASAP on first-day reselect and auto-scroll selected day/time in dropdowns
+
 ## v1.8.5 - <span class="utc-date">2026-03-10T09:02:27Z</span>
 
 LBX-26745 - fix: auto-scroll only when first modifier is required
