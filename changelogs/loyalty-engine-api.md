@@ -1,3 +1,17 @@
+## 1.0.7 - <span class="utc-date">2026-03-16T20:33:15Z</span>
+
+## What's Changed
+* LBX-26749: Update webhook event data by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/942
+* Update monitoring module to v0.2.4  by @saisamratadloori97 in https://github.com/lunchboxinc/loyalty-engine-api/pull/943
+* Update monitoring module v0.2.4 by @saisamratadloori97 in https://github.com/lunchboxinc/loyalty-engine-api/pull/944
+* Update package json lock by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/947
+* test package by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/948
+
+## New Contributors
+* @saisamratadloori97 made their first contribution in https://github.com/lunchboxinc/loyalty-engine-api/pull/943
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.5...1.0.7
+
 ## 1.0.5 - <span class="utc-date">2026-02-23T18:04:17Z</span>
 
 ## What's Changed
