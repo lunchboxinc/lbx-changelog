@@ -1,3 +1,7 @@
+## v1.8.9 - <span class="utc-date">2026-03-23T17:41:19Z</span>
+
+LBX-26837 - add support for separate ND-API-Key for mobile and web clients
+
 ## v1.8.8 - <span class="utc-date">2026-03-23T11:01:56Z</span>
 
 LBX-26872 - fix: remove hardcoded 99 cap for modifier quantities
