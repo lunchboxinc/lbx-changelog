@@ -1,3 +1,7 @@
+## v1.8.8 - <span class="utc-date">2026-03-23T11:01:56Z</span>
+
+LBX-26872 - fix: remove hardcoded 99 cap for modifier quantities
+
 ## v1.8.7 - <span class="utc-date">2026-03-16T10:27:23Z</span>
 
 LBX-26834 - fix: persist guest count on order update
