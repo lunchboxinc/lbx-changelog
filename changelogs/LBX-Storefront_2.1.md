@@ -1,3 +1,7 @@
+## v1.8.10 - <span class="utc-date">2026-03-24T10:47:45Z</span>
+
+LBX-26913 - fix: allow deleting default quantity value (1)
+
 ## v1.8.9 - <span class="utc-date">2026-03-23T17:41:19Z</span>
 
 LBX-26837 - add support for separate ND-API-Key for mobile and web clients
