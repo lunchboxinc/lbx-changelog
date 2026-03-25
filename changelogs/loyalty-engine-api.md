@@ -1,3 +1,12 @@
+## 1.0.9 - <span class="utc-date">2026-03-25T17:12:34Z</span>
+
+## What's Changed
+* fix/LBX 26867 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/952
+* update/1.0.9 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/953
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.8...1.0.9
+
 ## 1.0.8 - <span class="utc-date">2026-03-23T15:24:10Z</span>
 
 ## What's Changed
