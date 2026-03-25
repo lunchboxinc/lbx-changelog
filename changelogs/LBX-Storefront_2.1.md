@@ -1,3 +1,7 @@
+## v1.8.12 - <span class="utc-date">2026-03-25T13:48:11Z</span>
+
+LBX-26935 - set email and SMS opt-in checkboxes default to false for guest checkout, signup modal
+
 ## v1.8.11 - <span class="utc-date">2026-03-25T10:58:22Z</span>
 
 LBX-26918 - fix: paytronix checkout gift card PIN validation when PIN toggle is disabled
