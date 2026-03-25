@@ -1,3 +1,7 @@
+## v1.8.11 - <span class="utc-date">2026-03-25T10:58:22Z</span>
+
+LBX-26918 - fix: paytronix checkout gift card PIN validation when PIN toggle is disabled
+
 ## v1.8.10 - <span class="utc-date">2026-03-24T10:47:45Z</span>
 
 LBX-26913 - fix: allow deleting default quantity value (1)
