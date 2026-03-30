@@ -1,3 +1,7 @@
+## v1.8.13 - <span class="utc-date">2026-03-30T10:30:32Z</span>
+
+LBX-26945 - feat: Luhn-based credit card verification feature added
+
 ## v1.8.12 - <span class="utc-date">2026-03-25T13:48:11Z</span>
 
 LBX-26935 - set email and SMS opt-in checkboxes default to false for guest checkout, signup modal
