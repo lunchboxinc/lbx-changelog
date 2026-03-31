@@ -1,3 +1,7 @@
+## v1.8.15 - <span class="utc-date">2026-03-31T12:05:25Z</span>
+
+LBX-26988 - fix: initialize selectedServiceId on direct login
+
 ## v1.8.14 - <span class="utc-date">2026-03-30T12:08:39Z</span>
 
 LBX-26965 - fix:hide rewards progress zero threshold
