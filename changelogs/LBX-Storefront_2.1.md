@@ -1,3 +1,7 @@
+## v1.8.16 - <span class="utc-date">2026-04-01T11:58:35Z</span>
+
+LBX-26999 - fix: Apple Pay domain verification by removing stale static association file from public/.well-known
+
 ## v1.8.15 - <span class="utc-date">2026-03-31T12:05:25Z</span>
 
 LBX-26988 - fix: initialize selectedServiceId on direct login
