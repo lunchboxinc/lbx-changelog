@@ -1,3 +1,7 @@
+## v1.8.17 - <span class="utc-date">2026-04-02T14:49:46Z</span>
+
+LBX-27012 - fix: hide top-level cart items when should_show_in_cart is false
+
 ## v1.8.16 - <span class="utc-date">2026-04-01T11:58:35Z</span>
 
 LBX-26999 - fix: Apple Pay domain verification by removing stale static association file from public/.well-known
