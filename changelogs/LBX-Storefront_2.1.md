@@ -1,3 +1,7 @@
+## v1.8.18 - <span class="utc-date">2026-04-03T13:37:07Z</span>
+
+fix: render item modal above cart overlay when opened from cart swiper
+
 ## v1.8.17 - <span class="utc-date">2026-04-02T14:49:46Z</span>
 
 LBX-27012 - fix: hide top-level cart items when should_show_in_cart is false
