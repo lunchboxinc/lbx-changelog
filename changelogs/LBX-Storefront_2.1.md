@@ -1,3 +1,7 @@
+## v1.8.20 - <span class="utc-date">2026-04-06T10:01:17Z</span>
+
+fix: square applepay and googlepay payload parity
+
 ## v1.8.19 - <span class="utc-date">2026-04-06T09:58:38Z</span>
 
 fix: tax exempt modal close flow and align button styles with other modals
