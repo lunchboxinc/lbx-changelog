@@ -1,3 +1,7 @@
+## v1.8.19 - <span class="utc-date">2026-04-06T09:58:38Z</span>
+
+fix: tax exempt modal close flow and align button styles with other modals
+
 ## v1.8.18 - <span class="utc-date">2026-04-03T13:37:07Z</span>
 
 fix: render item modal above cart overlay when opened from cart swiper
