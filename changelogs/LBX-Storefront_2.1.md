@@ -1,3 +1,7 @@
+## 1.8.21 - <span class="utc-date">2026-04-06T11:51:50Z</span>
+
+fix: merge duplicate items, update quantities correctly
+
 ## v1.8.20 - <span class="utc-date">2026-04-06T10:01:17Z</span>
 
 fix: square applepay and googlepay payload parity
