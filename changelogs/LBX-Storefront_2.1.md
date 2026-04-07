@@ -1,3 +1,7 @@
+## v1.8.21 - <span class="utc-date">2026-04-07T11:46:55Z</span>
+
+LBX-27000 - feat: allow editing modifier quantity via text input
+
 ## 1.8.21 - <span class="utc-date">2026-04-06T11:51:50Z</span>
 
 fix: merge duplicate items, update quantities correctly
