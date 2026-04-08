@@ -1,3 +1,7 @@
+## v1.8.23 - <span class="utc-date">2026-04-08T16:12:58Z</span>
+
+fix: correct selected day when switching to ASAP in scheduler mode
+
 ## v1.8.22 - <span class="utc-date">2026-04-08T09:11:17Z</span>
 
 LBX-27073 - fix: block duplicate favorite API calls on rapid heart double-clicks
