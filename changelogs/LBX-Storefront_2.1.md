@@ -1,3 +1,7 @@
+## v1.8.22 - <span class="utc-date">2026-04-08T09:11:17Z</span>
+
+LBX-27073 - fix: block duplicate favorite API calls on rapid heart double-clicks
+
 ## v1.8.21 - <span class="utc-date">2026-04-07T11:46:55Z</span>
 
 LBX-27000 - feat: allow editing modifier quantity via text input
