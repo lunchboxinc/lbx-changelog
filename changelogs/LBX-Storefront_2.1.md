@@ -1,3 +1,7 @@
+## v1.8.24 - <span class="utc-date">2026-04-13T16:46:29Z</span>
+
+LBX-26853 - fix: safari guest order login merge
+
 ## v1.8.23 - <span class="utc-date">2026-04-08T16:12:58Z</span>
 
 fix: correct selected day when switching to ASAP in scheduler mode
