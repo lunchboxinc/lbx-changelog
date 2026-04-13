@@ -1,3 +1,7 @@
+## v1.8.25 - <span class="utc-date">2026-04-13T17:38:31Z</span>
+
+fix: safari guest login order migration tip reapply
+
 ## v1.8.24 - <span class="utc-date">2026-04-13T16:46:29Z</span>
 
 LBX-26853 - fix: safari guest order login merge
