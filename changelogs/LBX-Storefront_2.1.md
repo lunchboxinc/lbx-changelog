@@ -1,3 +1,7 @@
+## v1.8.26 - <span class="utc-date">2026-04-14T10:58:18Z</span>
+
+fix: show locations skeleton until config is loaded
+
 ## v1.8.25 - <span class="utc-date">2026-04-13T17:38:31Z</span>
 
 fix: safari guest login order migration tip reapply
