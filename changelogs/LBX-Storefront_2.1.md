@@ -1,3 +1,7 @@
+## v1.8.27 - <span class="utc-date">2026-04-15T19:16:52Z</span>
+
+fix: footnote-driven class badges and stable id matching
+
 ## v1.8.26 - <span class="utc-date">2026-04-14T10:58:18Z</span>
 
 fix: show locations skeleton until config is loaded
