@@ -1,3 +1,7 @@
+## v1.8.28 - <span class="utc-date">2026-04-16T13:41:34Z</span>
+
+chore: update core-js, dompurify and swiper with low-risk versions
+
 ## v1.8.27 - <span class="utc-date">2026-04-15T19:16:52Z</span>
 
 fix: footnote-driven class badges and stable id matching
