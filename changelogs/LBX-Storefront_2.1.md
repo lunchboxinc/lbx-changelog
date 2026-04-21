@@ -1,3 +1,7 @@
+## v1.8.31 - <span class="utc-date">2026-04-21T14:55:50Z</span>
+
+chore: dependency cleanup
+
 ## v1.8.30 - <span class="utc-date">2026-04-21T13:00:41Z</span>
 
 refactor: giftcard square sdk check
