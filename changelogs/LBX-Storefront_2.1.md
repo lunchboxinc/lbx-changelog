@@ -1,3 +1,7 @@
+## v1.8.29 - <span class="utc-date">2026-04-21T12:06:47Z</span>
+
+fix: strip Secure and SameSite=None from __ssid cookie in dev proxy for Safari
+
 ## v1.8.28 - <span class="utc-date">2026-04-16T13:41:34Z</span>
 
 chore: update core-js, dompurify and swiper with low-risk versions
