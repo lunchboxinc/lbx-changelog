@@ -1,3 +1,7 @@
+## v1.8.30 - <span class="utc-date">2026-04-21T13:00:41Z</span>
+
+refactor: giftcard square sdk check
+
 ## v1.8.29 - <span class="utc-date">2026-04-21T12:06:47Z</span>
 
 fix: strip Secure and SameSite=None from __ssid cookie in dev proxy for Safari
