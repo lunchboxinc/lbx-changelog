@@ -1,3 +1,7 @@
+## v1.8.33 - <span class="utc-date">2026-04-22T16:39:12Z</span>
+
+add CookieYes cookie banner
+
 ## v1.8.32 - <span class="utc-date">2026-04-22T11:24:35Z</span>
 
 LBX-26681 - feat: implement hide order status
