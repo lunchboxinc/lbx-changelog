@@ -1,3 +1,7 @@
+## v1.8.32 - <span class="utc-date">2026-04-22T11:24:35Z</span>
+
+LBX-26681 - feat: implement hide order status
+
 ## v1.8.31 - <span class="utc-date">2026-04-21T14:55:50Z</span>
 
 chore: dependency cleanup
