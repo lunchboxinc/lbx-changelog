@@ -1,3 +1,7 @@
+## v1.8.34 - <span class="utc-date">2026-04-28T10:36:17Z</span>
+
+LBX-26966 - feat: revalidate promo codes after order time update
+
 ## v1.8.33 - <span class="utc-date">2026-04-22T16:39:12Z</span>
 
 add CookieYes cookie banner
