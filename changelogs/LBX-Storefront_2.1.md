@@ -1,3 +1,7 @@
+## v1.8.35 - <span class="utc-date">2026-04-28T15:58:05Z</span>
+
+LBX-27244 - fix: preserve leading zeros in gift card PIN input at checkout
+
 ## v1.8.34 - <span class="utc-date">2026-04-28T10:36:17Z</span>
 
 LBX-26966 - feat: revalidate promo codes after order time update
