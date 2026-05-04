@@ -1,3 +1,7 @@
+## v1.8.36 - <span class="utc-date">2026-05-04T19:56:16Z</span>
+
+LBX-27292 - fix(menu): prevent item modal from opening when tapping allergen icons on mobile
+
 ## v1.8.35 - <span class="utc-date">2026-04-28T15:58:05Z</span>
 
 LBX-27244 - fix: preserve leading zeros in gift card PIN input at checkout
