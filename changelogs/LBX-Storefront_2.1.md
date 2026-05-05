@@ -1,3 +1,7 @@
+## v1.8.37 - <span class="utc-date">2026-05-05T14:16:55Z</span>
+
+chore(deps): update safe dependencies to latest versions
+
 ## v1.8.36 - <span class="utc-date">2026-05-04T19:56:16Z</span>
 
 LBX-27292 - fix(menu): prevent item modal from opening when tapping allergen icons on mobile
