@@ -1,3 +1,7 @@
+## v1.8.38 - <span class="utc-date">2026-05-06T10:27:07Z</span>
+
+LBX-27288 - feat: mobile menu search bar
+
 ## v1.8.37 - <span class="utc-date">2026-05-05T14:16:55Z</span>
 
 chore(deps): update safe dependencies to latest versions
