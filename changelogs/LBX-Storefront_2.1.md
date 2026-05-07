@@ -1,3 +1,7 @@
+## v1.8.40 - <span class="utc-date">2026-05-07T12:02:44Z</span>
+
+LBX-27314 - fix: open upsell item modal above cart in content hub
+
 ## v1.8.39 - <span class="utc-date">2026-05-07T10:50:19Z</span>
 
 LBX-27310 - fix: open upsell item modal above cart in order history
