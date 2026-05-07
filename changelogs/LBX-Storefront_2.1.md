@@ -1,3 +1,7 @@
+## v1.8.39 - <span class="utc-date">2026-05-07T10:50:19Z</span>
+
+LBX-27310 - fix: open upsell item modal above cart in order history
+
 ## v1.8.38 - <span class="utc-date">2026-05-06T10:27:07Z</span>
 
 LBX-27288 - feat: mobile menu search bar
