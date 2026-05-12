@@ -1,3 +1,7 @@
+## v1.8.41 - <span class="utc-date">2026-05-12T13:01:34Z</span>
+
+LBX-27323 - fix: rewards counter shows conversion threshold instead of tier threshold
+
 ## v1.8.40 - <span class="utc-date">2026-05-07T12:02:44Z</span>
 
 LBX-27314 - fix: open upsell item modal above cart in content hub
