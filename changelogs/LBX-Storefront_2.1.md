@@ -1,3 +1,7 @@
+## v1.8.42 - <span class="utc-date">2026-05-14T12:19:50Z</span>
+
+LBX-27275 - fix: use saved national number in guest phone verify payload
+
 ## v1.8.41 - <span class="utc-date">2026-05-12T13:01:34Z</span>
 
 LBX-27323 - fix: rewards counter shows conversion threshold instead of tier threshold
