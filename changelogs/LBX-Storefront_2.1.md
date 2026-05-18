@@ -1,3 +1,7 @@
+## v1.8.46 - <span class="utc-date">2026-05-18T10:03:58Z</span>
+
+LBX-27334 - fix: hide required nested modifier warning after selections are made
+
 ## v1.8.45 - <span class="utc-date">2026-05-18T09:05:56Z</span>
 
 LBX-27394 - fix(menu): remove outOfStock dimming from display-only marketing boxes
