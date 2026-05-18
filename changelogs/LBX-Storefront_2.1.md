@@ -1,3 +1,7 @@
+## v1.8.47 - <span class="utc-date">2026-05-18T16:34:15Z</span>
+
+LBX-27384 - update loyalty page verbiage for participating locations
+
 ## v1.8.46 - <span class="utc-date">2026-05-18T10:03:58Z</span>
 
 LBX-27334 - fix: hide required nested modifier warning after selections are made
