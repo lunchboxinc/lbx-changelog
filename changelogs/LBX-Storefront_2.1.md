@@ -1,3 +1,7 @@
+## v1.8.43 - <span class="utc-date">2026-05-18T07:31:33Z</span>
+
+fix: hide rewards points counter in tiers/perks-disabled mode and prevent points_rename undefined error
+
 ## v1.8.42 - <span class="utc-date">2026-05-14T12:19:50Z</span>
 
 LBX-27275 - fix: use saved national number in guest phone verify payload
