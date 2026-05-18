@@ -1,3 +1,7 @@
+## v1.8.45 - <span class="utc-date">2026-05-18T09:05:56Z</span>
+
+LBX-27394 - fix(menu): remove outOfStock dimming from display-only marketing boxes
+
 ## v1.8.44 - <span class="utc-date">2026-05-18T08:18:20Z</span>
 
 LBX-27395 - fix: show calories regardless of show_prices_on_menu toggle
