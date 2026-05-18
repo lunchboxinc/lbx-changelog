@@ -1,3 +1,7 @@
+## v1.8.44 - <span class="utc-date">2026-05-18T08:18:20Z</span>
+
+LBX-27395 - fix: show calories regardless of show_prices_on_menu toggle
+
 ## v1.8.43 - <span class="utc-date">2026-05-18T07:31:33Z</span>
 
 fix: hide rewards points counter in tiers/perks-disabled mode and prevent points_rename undefined error
