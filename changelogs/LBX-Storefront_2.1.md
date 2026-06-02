@@ -1,3 +1,7 @@
+## v1.8.49 - <span class="utc-date">2026-06-02T19:58:22Z</span>
+
+Closes https://github.com/lunchboxinc/LBX-Storefront_2.1/pull/595, https://github.com/lunchboxinc/LBX-Storefront_2.1/pull/596, https://github.com/lunchboxinc/LBX-Storefront_2.1/pull/597
+
 ## v1.8.47 - <span class="utc-date">2026-05-18T16:34:15Z</span>
 
 LBX-27384 - update loyalty page verbiage for participating locations
