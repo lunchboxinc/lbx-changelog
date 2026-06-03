@@ -1,3 +1,7 @@
+## v1.8.53 - <span class="utc-date">2026-06-03T14:47:25Z</span>
+
+feat: add donation support to checkout
+
 ## v1.8.52 - <span class="utc-date">2026-06-03T12:13:34Z</span>
 
 feat: add auto-close on mount and manual toggle button
