@@ -1,3 +1,7 @@
+## v1.8.51 - <span class="utc-date">2026-06-03T09:24:44Z</span>
+
+feat: add view hours, favorite markers, and closed store styling to map popup
+
 ## v1.8.50 - <span class="utc-date">2026-06-03T07:47:12Z</span>
 
 fix: always display store name regardless of hide_store_address flag
