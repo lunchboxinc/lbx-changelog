@@ -1,3 +1,7 @@
+## v1.8.50 - <span class="utc-date">2026-06-03T07:47:12Z</span>
+
+fix: always display store name regardless of hide_store_address flag
+
 ## v1.8.49 - <span class="utc-date">2026-06-02T19:58:22Z</span>
 
 Closes https://github.com/lunchboxinc/LBX-Storefront_2.1/pull/595, https://github.com/lunchboxinc/LBX-Storefront_2.1/pull/596, https://github.com/lunchboxinc/LBX-Storefront_2.1/pull/597
