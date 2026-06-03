@@ -1,3 +1,7 @@
+## v1.8.54 - <span class="utc-date">2026-06-03T15:23:18Z</span>
+
+fix: guest checkout session clear on order complete
+
 ## v1.8.53 - <span class="utc-date">2026-06-03T14:47:25Z</span>
 
 feat: add donation support to checkout
