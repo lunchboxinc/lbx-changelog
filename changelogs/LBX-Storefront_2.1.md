@@ -1,3 +1,7 @@
+## v1.8.52 - <span class="utc-date">2026-06-03T12:13:34Z</span>
+
+feat: add auto-close on mount and manual toggle button
+
 ## v1.8.51 - <span class="utc-date">2026-06-03T09:24:44Z</span>
 
 feat: add view hours, favorite markers, and closed store styling to map popup
