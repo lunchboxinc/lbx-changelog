@@ -1,3 +1,20 @@
+## v1.0.12 - <span class="utc-date">2026-06-05T00:22:10Z</span>
+
+## What's Changed
+* LBX-26936: Add conversion webhook emit call by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/954
+* update/1.0.10 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/955
+* Feature/new loyalty program by @mbayi-ios in https://github.com/lunchboxinc/loyalty-engine-api/pull/960
+* LBX-26982: Update default to asc by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/961
+* LBX-24555: Add script to update expiration for signup by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/895
+* task/1.0.11 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/962
+* docs/update-readme-file by @mbayi-ios in https://github.com/lunchboxinc/loyalty-engine-api/pull/957
+* version/1.0.12 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/965
+
+## New Contributors
+* @mbayi-ios made their first contribution in https://github.com/lunchboxinc/loyalty-engine-api/pull/960
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.9...v1.0.12
+
 ## 1.0.9 - <span class="utc-date">2026-03-25T17:12:34Z</span>
 
 ## What's Changed
