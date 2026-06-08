@@ -1,3 +1,7 @@
+## v1.9.1 - <span class="utc-date">2026-06-08T14:30:30Z</span>
+
+feat: add customize ingredients modal
+
 ## v1.9.0 - <span class="utc-date">2026-06-08T11:51:23Z</span>
 
 feat: add MenuViewV2
