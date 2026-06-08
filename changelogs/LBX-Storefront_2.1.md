@@ -1,3 +1,7 @@
+## v1.9.0 - <span class="utc-date">2026-06-08T11:51:23Z</span>
+
+feat: add MenuViewV2
+
 ## v1.8.55 - <span class="utc-date">2026-06-08T08:48:29Z</span>
 
 LBX-27574 - feat: open profile dropdown on hover
