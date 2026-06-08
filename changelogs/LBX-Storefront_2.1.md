@@ -1,3 +1,7 @@
+## v1.8.55 - <span class="utc-date">2026-06-08T08:48:29Z</span>
+
+LBX-27574 - feat: open profile dropdown on hover
+
 ## v1.8.54 - <span class="utc-date">2026-06-03T15:23:18Z</span>
 
 fix: guest checkout session clear on order complete
