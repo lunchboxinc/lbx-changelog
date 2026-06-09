@@ -1,3 +1,7 @@
+## v1.9.2 - <span class="utc-date">2026-06-09T10:59:33Z</span>
+
+feat: render custom_content header links next to logo
+
 ## v1.9.1 - <span class="utc-date">2026-06-08T14:30:30Z</span>
 
 feat: add customize ingredients modal
