@@ -1,3 +1,7 @@
+## v1.9.3 - <span class="utc-date">2026-06-10T10:01:19Z</span>
+
+fix: gift card visibility and default selection when no saved cards
+
 ## v1.9.2 - <span class="utc-date">2026-06-09T10:59:33Z</span>
 
 feat: render custom_content header links next to logo
