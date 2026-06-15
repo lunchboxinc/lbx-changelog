@@ -1,3 +1,12 @@
+## v1.0.13 - <span class="utc-date">2026-06-15T15:33:44Z</span>
+
+## What's Changed
+* LBX-27524: fix bank points conversion check by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/968
+* version/1.0.3 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/969
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/v1.0.12...v1.0.13
+
 ## v1.0.12 - <span class="utc-date">2026-06-05T00:22:10Z</span>
 
 ## What's Changed
