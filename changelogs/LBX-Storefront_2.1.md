@@ -1,3 +1,7 @@
+## v1.9.4 - <span class="utc-date">2026-06-15T11:37:15Z</span>
+
+LBX-27596, LBX-27587- updated Add to Cart CTA to respect branding settings, added configurable CTA text support, and removed the button separator
+
 ## v1.9.3 - <span class="utc-date">2026-06-10T10:01:19Z</span>
 
 fix: gift card visibility and default selection when no saved cards
