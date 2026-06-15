@@ -1,3 +1,7 @@
+## v1.9.6 - <span class="utc-date">2026-06-15T17:18:55Z</span>
+
+fix: use textarea for order note fields on mobile to prevent text truncation
+
 ## v1.9.5 - <span class="utc-date">2026-06-15T14:50:31Z</span>
 
 LBX-27589 - feat: add selected box fill highlight behind branding flag
