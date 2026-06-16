@@ -1,3 +1,7 @@
+## v1.9.7 - <span class="utc-date">2026-06-16T09:28:00Z</span>
+
+LBX-27656 - fix: sync map markers with filtered store visibility rules
+
 ## v1.9.6 - <span class="utc-date">2026-06-15T17:18:55Z</span>
 
 fix: use textarea for order note fields on mobile to prevent text truncation
