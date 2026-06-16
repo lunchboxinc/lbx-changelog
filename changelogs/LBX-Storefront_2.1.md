@@ -1,3 +1,7 @@
+## v1.9.8 - <span class="utc-date">2026-06-16T10:20:47Z</span>
+
+LBX-27515 - fix: ada landmarks and keyboard accessibility
+
 ## v1.9.7 - <span class="utc-date">2026-06-16T09:28:00Z</span>
 
 LBX-27656 - fix: sync map markers with filtered store visibility rules
