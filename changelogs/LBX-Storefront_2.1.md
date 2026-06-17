@@ -1,3 +1,7 @@
+## v1.9.9 - <span class="utc-date">2026-06-17T11:32:38Z</span>
+
+LBX-27657 - fix: propagate Unleash chain context so international phone input flag resolves
+
 ## v1.9.8 - <span class="utc-date">2026-06-16T10:20:47Z</span>
 
 LBX-27515 - fix: ada landmarks and keyboard accessibility
