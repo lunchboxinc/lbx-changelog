@@ -1,3 +1,7 @@
+## v1.9.11 - <span class="utc-date">2026-06-18T08:58:55Z</span>
+
+LBX-27704 - style: make Change buttons rectangular across
+
 ## v1.9.10 - <span class="utc-date">2026-06-17T13:21:56Z</span>
 
 LBX-27422 - feat: disable ASAP option when lead time exceeds 60 minutes
