@@ -1,3 +1,8 @@
+## v1.9.12 - <span class="utc-date">2026-06-22T16:04:23Z</span>
+
+LBX-27738 - feat: align order status display with Order History
+LBX-27502 - fix: retry loyalty rewards on cold session
+
 ## v1.9.11 - <span class="utc-date">2026-06-18T08:58:55Z</span>
 
 LBX-27704 - style: make Change buttons rectangular across
