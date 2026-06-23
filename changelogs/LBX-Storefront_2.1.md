@@ -1,3 +1,7 @@
+## v1.9.13 - <span class="utc-date">2026-06-23T11:15:30Z</span>
+
+LBX-27692 - feat: allergen filter modal
+
 ## v1.9.12 - <span class="utc-date">2026-06-22T16:04:23Z</span>
 
 LBX-27738 - feat: align order status display with Order History
