@@ -1,3 +1,8 @@
+## v1.9.14 - <span class="utc-date">2026-06-23T12:50:14Z</span>
+
+LBX-27717 - fix: don't carry donation from base order on reorder
+
+
 ## v1.9.13 - <span class="utc-date">2026-06-23T11:15:30Z</span>
 
 LBX-27692 - feat: allergen filter modal
