@@ -1,3 +1,7 @@
+## v1.9.15 - <span class="utc-date">2026-06-29T11:47:31Z</span>
+
+LBX-27708 - feat: respect enable_auto_scrolling flag for modifier groups
+
 ## v1.9.14 - <span class="utc-date">2026-06-23T12:50:14Z</span>
 
 LBX-27717 - fix: don't carry donation from base order on reorder
