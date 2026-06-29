@@ -1,3 +1,7 @@
+## v1.9.16 - <span class="utc-date">2026-06-29T13:07:38Z</span>
+
+fix: handle unavailable reorder slots without infinite loading
+
 ## v1.9.15 - <span class="utc-date">2026-06-29T11:47:31Z</span>
 
 LBX-27708 - feat: respect enable_auto_scrolling flag for modifier groups
