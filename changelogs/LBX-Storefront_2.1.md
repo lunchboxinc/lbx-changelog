@@ -1,3 +1,7 @@
+## v1.9.17 - <span class="utc-date">2026-06-29T14:00:17Z</span>
+
+LBX-27809 - fix: correct disclaimer font and text color
+
 ## v1.9.16 - <span class="utc-date">2026-06-29T13:07:38Z</span>
 
 fix: handle unavailable reorder slots without infinite loading
