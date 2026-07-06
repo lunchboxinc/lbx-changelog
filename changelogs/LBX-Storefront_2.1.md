@@ -1,3 +1,7 @@
+## v1.9.19 - <span class="utc-date">2026-07-06T12:44:30Z</span>
+
+LBX-27831 - feat: respect menu_hero_image_auto_collapse for hero collapse behavior
+
 ## v1.9.18 - <span class="utc-date">2026-06-30T12:39:41Z</span>
 
 fhs choice modifier sync master
