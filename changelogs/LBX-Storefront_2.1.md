@@ -1,3 +1,7 @@
+## v1.9.20 - <span class="utc-date">2026-07-07T14:46:22Z</span>
+
+LBX-27886 - fix(cart): reset promo errors when promos section is collapsed
+
 ## v1.9.19 - <span class="utc-date">2026-07-06T12:44:30Z</span>
 
 LBX-27831 - feat: respect menu_hero_image_auto_collapse for hero collapse behavior
