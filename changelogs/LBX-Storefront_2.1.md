@@ -1,3 +1,7 @@
+## v1.9.22 - <span class="utc-date">2026-07-08T15:42:08Z</span>
+
+LBX-27888 - fix: account back to menu origin
+
 ## v1.9.21 - <span class="utc-date">2026-07-08T13:16:29Z</span>
 
 LBX-27904 - fix: fallback to a default service when selectedServiceId is missing
