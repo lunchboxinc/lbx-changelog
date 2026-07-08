@@ -1,3 +1,7 @@
+## v1.9.21 - <span class="utc-date">2026-07-08T13:16:29Z</span>
+
+LBX-27904 - fix: fallback to a default service when selectedServiceId is missing
+
 ## v1.9.20 - <span class="utc-date">2026-07-07T14:46:22Z</span>
 
 LBX-27886 - fix(cart): reset promo errors when promos section is collapsed
