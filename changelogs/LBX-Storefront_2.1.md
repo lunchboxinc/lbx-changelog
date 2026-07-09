@@ -1,3 +1,7 @@
+## v1.9.23 - <span class="utc-date">2026-07-09T15:33:14Z</span>
+
+LBX-27921 - fix(header): make profile dropdown keyboard-accessible
+
 ## v1.9.22 - <span class="utc-date">2026-07-08T15:42:08Z</span>
 
 LBX-27888 - fix: account back to menu origin
