@@ -1,3 +1,7 @@
+## v1.9.24 - <span class="utc-date">2026-07-13T10:47:04Z</span>
+
+LBX-27920 - feat: use offline_store_marker for closed stores on map
+
 ## v1.9.23 - <span class="utc-date">2026-07-09T15:33:14Z</span>
 
 LBX-27921 - fix(header): make profile dropdown keyboard-accessible
