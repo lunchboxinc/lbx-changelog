@@ -1,3 +1,7 @@
+## v1.9.25 - <span class="utc-date">2026-07-14T13:17:20Z</span>
+
+LBX-27932 - fix: block ASAP-only orders before store opening hours
+
 ## v1.9.24 - <span class="utc-date">2026-07-13T10:47:04Z</span>
 
 LBX-27920 - feat: use offline_store_marker for closed stores on map
