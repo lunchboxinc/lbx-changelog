@@ -1,3 +1,7 @@
+## v1.9.28 - <span class="utc-date">2026-07-20T17:35:37Z</span>
+
+LBX-28008 - fix(coralogix): enable inlineImages to fix map tiles in session replay
+
 ## v1.9.27 - <span class="utc-date">2026-07-20T11:04:03Z</span>
 
 feat: add receipt download to order history
