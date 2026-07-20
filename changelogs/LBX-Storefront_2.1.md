@@ -1,3 +1,7 @@
+## v1.9.26 - <span class="utc-date">2026-07-20T09:09:41Z</span>
+
+LBX-27973 - fix(header): prevent nav icons from collapsing to zero width on mobile
+
 ## v1.9.25 - <span class="utc-date">2026-07-14T13:17:20Z</span>
 
 LBX-27932 - fix: block ASAP-only orders before store opening hours
