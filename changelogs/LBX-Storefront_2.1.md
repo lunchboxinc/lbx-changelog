@@ -1,3 +1,7 @@
+## v1.9.27 - <span class="utc-date">2026-07-20T11:04:03Z</span>
+
+feat: add receipt download to order history
+
 ## v1.9.26 - <span class="utc-date">2026-07-20T09:09:41Z</span>
 
 LBX-27973 - fix(header): prevent nav icons from collapsing to zero width on mobile
