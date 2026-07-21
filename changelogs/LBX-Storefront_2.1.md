@@ -1,3 +1,7 @@
+## v1.9.29 - <span class="utc-date">2026-07-21T14:01:32Z</span>
+
+LBX-27892 + LBX-27916 - feat: gate Order Now and Favorite Items on active store + visible service type
+
 ## v1.9.28 - <span class="utc-date">2026-07-20T17:35:37Z</span>
 
 LBX-28008 - fix(coralogix): enable inlineImages to fix map tiles in session replay
