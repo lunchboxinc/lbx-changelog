@@ -1,3 +1,7 @@
+## v1.9.32 - <span class="utc-date">2026-07-22T16:11:20Z</span>
+
+LBX-27963 - fix: hide item sizes disabled in price_list
+
 ## v1.9.31 - <span class="utc-date">2026-07-22T14:21:48Z</span>
 
 feat: international payments
