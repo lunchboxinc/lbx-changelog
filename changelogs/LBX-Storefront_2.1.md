@@ -1,3 +1,7 @@
+## v1.9.31 - <span class="utc-date">2026-07-22T14:21:48Z</span>
+
+feat: international payments
+
 ## v1.9.30 - <span class="utc-date">2026-07-22T11:39:32Z</span>
 
 LBX-28039 - feat: prompt customers to replace placeholder first/last name
