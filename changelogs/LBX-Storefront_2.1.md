@@ -1,3 +1,7 @@
+## v1.9.33 - <span class="utc-date">2026-07-28T11:41:33Z</span>
+
+LBX-28098 - feat: fire validate_only on place order, tip and donation changes
+
 ## v1.9.32 - <span class="utc-date">2026-07-22T16:11:20Z</span>
 
 LBX-27963 - fix: hide item sizes disabled in price_list
