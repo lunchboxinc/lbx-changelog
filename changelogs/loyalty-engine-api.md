@@ -1,3 +1,17 @@
+## 1.0.16 - <span class="utc-date">2026-07-29T21:06:17Z</span>
+
+## What's Changed
+* update/LBX 27647 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/970
+* LBX-27868: Add new table call role by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/971
+* update/1.0.14 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/972
+* update/dd trace package by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/973
+* version/1.0.15 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/974
+* Fix fetching reward take to default as undefined by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/975
+* version/1.0.16 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/976
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/v1.0.13...1.0.16
+
 ## v1.0.13 - <span class="utc-date">2026-06-15T15:33:44Z</span>
 
 ## What's Changed
