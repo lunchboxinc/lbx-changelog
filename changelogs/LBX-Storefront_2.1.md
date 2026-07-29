@@ -1,3 +1,7 @@
+## v1.9.34 - <span class="utc-date">2026-07-29T11:41:50Z</span>
+
+LBX-28111 - fix: keep menu v2 hero visible and modifier expand arrow inline on mobile
+
 ## v1.9.33 - <span class="utc-date">2026-07-28T11:41:33Z</span>
 
 LBX-28098 - feat: fire validate_only on place order, tip and donation changes
