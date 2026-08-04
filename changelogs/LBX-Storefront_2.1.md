@@ -1,3 +1,7 @@
+## v1.9.35 - <span class="utc-date">2026-08-04T13:40:55Z</span>
+
+LBX-28084 - fix: wallet authorize remaining cents
+
 ## v1.9.34 - <span class="utc-date">2026-07-29T11:41:50Z</span>
 
 LBX-28111 - fix: keep menu v2 hero visible and modifier expand arrow inline on mobile
