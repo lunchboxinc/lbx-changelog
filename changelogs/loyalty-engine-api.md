@@ -1,3 +1,15 @@
+## 1.0.18 - <span class="utc-date">2026-08-05T14:17:34Z</span>
+
+## What's Changed
+* fix/LBX 27083 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/977
+* version/1.0.17 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/978
+* fix/LBX 28152 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/979
+* fix/LBX 28153 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/981
+* version/1.0.18 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/982
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.16...1.0.18
+
 ## 1.0.17 - <span class="utc-date">2026-08-04T14:17:27Z</span>
 
 ## What's Changed
