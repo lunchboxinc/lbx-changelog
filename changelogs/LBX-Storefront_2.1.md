@@ -1,3 +1,7 @@
+## 1.9.36 - <span class="utc-date">2026-08-06T13:23:38Z</span>
+
+LBX-27701 and LBX-27702 - feat: localize date/time display
+
 ## v1.9.35 - <span class="utc-date">2026-08-04T13:40:55Z</span>
 
 LBX-28084 - fix: wallet authorize remaining cents
