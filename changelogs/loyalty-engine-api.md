@@ -1,3 +1,11 @@
+## 1.0.19 - <span class="utc-date">2026-08-10T20:57:09Z</span>
+
+## What's Changed
+* version/1.0.19 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/983
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.18...1.0.19
+
 ## 1.0.18 - <span class="utc-date">2026-08-05T14:17:34Z</span>
 
 ## What's Changed
