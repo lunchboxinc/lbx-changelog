@@ -1,3 +1,7 @@
+## v1.9.39 - <span class="utc-date">2026-08-12T13:15:03Z</span>
+
+LBX-27545 and LBX-27955 - feat: fhs nutritional info modal
+
 ## v1.9.38 - <span class="utc-date">2026-08-10T13:54:19Z</span>
 
 LBX-28173 - feat(receipt): display VAT registration number on downloaded receipt
