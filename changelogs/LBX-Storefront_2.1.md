@@ -1,3 +1,7 @@
+## v1.9.41 - <span class="utc-date">2026-08-24T11:53:33Z</span>
+
+LBX-28163 - fix(scheduler): fix ASAP availability for delivery grace period
+
 ## v1.9.40 - <span class="utc-date">2026-08-24T10:43:07Z</span>
 
 LBX-28267, LBX-28302, LBX-28291 - refactor(profile): share the account access gate and simplify navigation
