@@ -1,3 +1,7 @@
+## v1.9.40 - <span class="utc-date">2026-08-24T10:43:07Z</span>
+
+LBX-28267, LBX-28302, LBX-28291 - refactor(profile): share the account access gate and simplify navigation
+
 ## v1.9.39 - <span class="utc-date">2026-08-12T13:15:03Z</span>
 
 LBX-27545 and LBX-27955 - feat: fhs nutritional info modal
