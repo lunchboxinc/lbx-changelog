@@ -1,3 +1,7 @@
+## v1.9.42 - <span class="utc-date">2026-08-24T14:35:57Z</span>
+
+LBX-28289 - fix: render rewards page for punchh loyalty accounts
+
 ## v1.9.41 - <span class="utc-date">2026-08-24T11:53:33Z</span>
 
 LBX-28163 - fix(scheduler): fix ASAP availability for delivery grace period
