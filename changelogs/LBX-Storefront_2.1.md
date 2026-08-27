@@ -1,3 +1,7 @@
+## v1.9.43 - <span class="utc-date">2026-08-27T12:43:21Z</span>
+
+LBX-28121 - feat: read donation widget config from branding.donation
+
 ## v1.9.42 - <span class="utc-date">2026-08-24T14:35:57Z</span>
 
 LBX-28289 - fix: render rewards page for punchh loyalty accounts
