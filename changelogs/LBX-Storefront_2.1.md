@@ -1,3 +1,7 @@
+## v1.9.44 - <span class="utc-date">2026-08-27T13:49:00Z</span>
+
+LBX-28333 - feat: send full Meta Pixel e-commerce events
+
 ## v1.9.43 - <span class="utc-date">2026-08-27T12:43:21Z</span>
 
 LBX-28121 - feat: read donation widget config from branding.donation
