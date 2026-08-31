@@ -1,3 +1,7 @@
+## v1.9.46 - <span class="utc-date">2026-08-31T14:16:38Z</span>
+
+LBX-28376, LBX-28377, LBX-28380 - chore: cleanup dead code
+
 ## v1.9.45 - <span class="utc-date">2026-08-31T13:22:52Z</span>
 
 LBX-28275 - fix(checkout): respect disable_save_card flag per payment method
