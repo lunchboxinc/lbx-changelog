@@ -1,3 +1,7 @@
+## v1.9.45 - <span class="utc-date">2026-08-31T13:22:52Z</span>
+
+LBX-28275 - fix(checkout): respect disable_save_card flag per payment method
+
 ## v1.9.44 - <span class="utc-date">2026-08-27T13:49:00Z</span>
 
 LBX-28333 - feat: send full Meta Pixel e-commerce events
