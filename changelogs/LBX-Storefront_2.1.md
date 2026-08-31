@@ -1,3 +1,7 @@
+## v1.9.47 - <span class="utc-date">2026-08-31T15:16:44Z</span>
+
+LBX-28338 - fix(scheduler): prevent invalid ready_ts when today is ASAP-only
+
 ## v1.9.46 - <span class="utc-date">2026-08-31T14:16:38Z</span>
 
 LBX-28376, LBX-28377, LBX-28380 - chore: cleanup dead code
