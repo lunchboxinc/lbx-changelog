@@ -1,3 +1,7 @@
+## v1.9.48 - <span class="utc-date">2026-09-01T12:24:48Z</span>
+
+LBX-28221 - fix: resolve Google/Radar map type after store config loads
+
 ## v1.9.47 - <span class="utc-date">2026-08-31T15:16:44Z</span>
 
 LBX-28338 - fix(scheduler): prevent invalid ready_ts when today is ASAP-only
