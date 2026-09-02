@@ -1,3 +1,7 @@
+## v1.9.49 - <span class="utc-date">2026-09-02T15:02:08Z</span>
+
+LBX-28394 - feat(rokt): send SHA-256 hashed phone instead of raw number
+
 ## v1.9.48 - <span class="utc-date">2026-09-01T12:24:48Z</span>
 
 LBX-28221 - fix: resolve Google/Radar map type after store config loads
