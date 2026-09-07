@@ -1,3 +1,7 @@
+## v1.9.51 - <span class="utc-date">2026-09-07T13:57:20Z</span>
+
+LBX-28390 - fix(service-type): never default to a hidden service type
+
 ## v1.9.50 - <span class="utc-date">2026-09-07T12:24:47Z</span>
 
 LBX-28416 - fix: guard error.response reads inside catch blocks
