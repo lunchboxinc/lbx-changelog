@@ -1,3 +1,7 @@
+## v1.9.50 - <span class="utc-date">2026-09-07T12:24:47Z</span>
+
+LBX-28416 - fix: guard error.response reads inside catch blocks
+
 ## v1.9.49 - <span class="utc-date">2026-09-02T15:02:08Z</span>
 
 LBX-28394 - feat(rokt): send SHA-256 hashed phone instead of raw number
