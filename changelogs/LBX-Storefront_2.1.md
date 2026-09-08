@@ -1,3 +1,7 @@
+## v1.9.54 - <span class="utc-date">2026-09-08T15:02:30Z</span>
+
+LBX-28426 - fix(branding): scope font family names per slot
+
 ## v1.9.53 - <span class="utc-date">2026-09-08T12:47:11Z</span>
 
 LBX-28294 - feat: gate nutrition and calorie UI behind display options
