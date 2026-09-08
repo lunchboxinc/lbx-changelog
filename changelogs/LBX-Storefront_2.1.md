@@ -1,3 +1,7 @@
+## v1.9.52 - <span class="utc-date">2026-09-08T11:32:44Z</span>
+
+LBX-28070 - fix: resolve Square vs raw per-location instead of a chain-wide flag
+
 ## v1.9.51 - <span class="utc-date">2026-09-07T13:57:20Z</span>
 
 LBX-28390 - fix(service-type): never default to a hidden service type
