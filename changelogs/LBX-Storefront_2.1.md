@@ -1,3 +1,7 @@
+## v1.9.53 - <span class="utc-date">2026-09-08T12:47:11Z</span>
+
+LBX-28294 - feat: gate nutrition and calorie UI behind display options
+
 ## v1.9.52 - <span class="utc-date">2026-09-08T11:32:44Z</span>
 
 LBX-28070 - fix: resolve Square vs raw per-location instead of a chain-wide flag
