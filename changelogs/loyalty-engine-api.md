@@ -1,3 +1,11 @@
+## 1.0.20 - <span class="utc-date">2026-09-09T18:54:53Z</span>
+
+## What's Changed
+* LBX-28403: Fix PR phone number validation by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/990
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.19...1.0.20
+
 ## 1.0.19 - <span class="utc-date">2026-08-10T20:57:09Z</span>
 
 ## What's Changed
