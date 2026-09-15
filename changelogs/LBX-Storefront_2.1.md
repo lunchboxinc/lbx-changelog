@@ -1,3 +1,7 @@
+## v1.9.55 - <span class="utc-date">2026-09-15T12:48:47Z</span>
+
+LBX-28468 - fix(reorder): drop notes disabled by tenant settings
+
 ## v1.9.54 - <span class="utc-date">2026-09-08T15:02:30Z</span>
 
 LBX-28426 - fix(branding): scope font family names per slot
