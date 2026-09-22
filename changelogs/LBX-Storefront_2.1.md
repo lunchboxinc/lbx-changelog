@@ -1,3 +1,7 @@
+## v1.9.56 - <span class="utc-date">2026-09-22T13:46:56Z</span>
+
+LBX-28496,LBX-28497 - fix(service-type): default to a service even when all are hidden
+
 ## v1.9.55 - <span class="utc-date">2026-09-15T12:48:47Z</span>
 
 LBX-28468 - fix(reorder): drop notes disabled by tenant settings
