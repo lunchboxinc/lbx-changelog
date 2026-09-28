@@ -1,3 +1,7 @@
+## v1.9.57 - <span class="utc-date">2026-09-28T12:36:17Z</span>
+
+LBX-28532 - feat(receipt): show refund credited on guest receipts
+
 ## v1.9.56 - <span class="utc-date">2026-09-22T13:46:56Z</span>
 
 LBX-28496,LBX-28497 - fix(service-type): default to a service even when all are hidden
