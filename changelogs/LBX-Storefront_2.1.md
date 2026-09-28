@@ -1,3 +1,7 @@
+## v1.9.58 - <span class="utc-date">2026-09-28T14:11:54Z</span>
+
+LBX-28541 - feat(auth): add standalone /signup page
+
 ## v1.9.57 - <span class="utc-date">2026-09-28T12:36:17Z</span>
 
 LBX-28532 - feat(receipt): show refund credited on guest receipts
