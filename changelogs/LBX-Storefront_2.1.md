@@ -1,3 +1,7 @@
+## v1.9.59 - <span class="utc-date">2026-10-05T14:07:03Z</span>
+
+LBX-28484, LBX-28481 - fix(a11y): derive a global focus indicator from the partner palette and name map markers and mark their icon images decorative
+
 ## v1.9.58 - <span class="utc-date">2026-09-28T14:11:54Z</span>
 
 LBX-28541 - feat(auth): add standalone /signup page
