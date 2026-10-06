@@ -1,3 +1,7 @@
+## v1.9.61 - <span class="utc-date">2026-10-06T14:23:09Z</span>
+
+LBX-28483-LBX-28485 - fix(a11y): inert modal backgrounds, name dialogs and label location search
+
 ## v1.9.60 - <span class="utc-date">2026-10-06T12:29:58Z</span>
 
 LBX-28549 - fix(reorder): block reorder on closed ASAP-only stores from all entry points
