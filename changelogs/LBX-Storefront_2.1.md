@@ -1,3 +1,7 @@
+## v1.9.60 - <span class="utc-date">2026-10-06T12:29:58Z</span>
+
+LBX-28549 - fix(reorder): block reorder on closed ASAP-only stores from all entry points
+
 ## v1.9.59 - <span class="utc-date">2026-10-05T14:07:03Z</span>
 
 LBX-28484, LBX-28481 - fix(a11y): derive a global focus indicator from the partner palette and name map markers and mark their icon images decorative
