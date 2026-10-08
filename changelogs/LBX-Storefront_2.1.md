@@ -1,3 +1,7 @@
+## v1.9.63 - <span class="utc-date">2026-10-08T16:26:51Z</span>
+
+fix(deps): LBX-28600 upgrade maplibre-gl to 6.13.0
+
 ## v1.9.62 - <span class="utc-date">2026-10-07T13:51:04Z</span>
 
 LBX-28482, LBX-28487 - fix(a11y): apply the shared modal focus mixin to every dialog and make the menu filter keyboard operable
