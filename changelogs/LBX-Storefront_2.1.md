@@ -1,3 +1,7 @@
+## v1.9.64 - <span class="utc-date">2026-10-12T13:21:55Z</span>
+
+LBX-28579 - fix(checkout): send address_id and order_id when creating order for tax-exempt delivery, feat(seo): LBX-28585 set per-location page title from chain template
+
 ## v1.9.63 - <span class="utc-date">2026-10-08T16:26:51Z</span>
 
 fix(deps): LBX-28600 upgrade maplibre-gl to 6.13.0
