@@ -1,3 +1,7 @@
+## v1.10.0 - <span class="utc-date">2026-10-13T13:17:12Z</span>
+
+feat: i18n setup
+
 ## v1.9.64 - <span class="utc-date">2026-10-12T13:21:55Z</span>
 
 LBX-28579 - fix(checkout): send address_id and order_id when creating order for tax-exempt delivery, feat(seo): LBX-28585 set per-location page title from chain template
