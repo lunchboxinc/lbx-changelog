@@ -1,3 +1,13 @@
+## 1.0.24 - <span class="utc-date">2026-10-15T14:57:57Z</span>
+
+## What's Changed
+* version/1.0.22 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/992
+* version/1.0.23 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/994
+* version/1.0.24 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/995
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.22...1.0.24
+
 ## 1.0.22 - <span class="utc-date">2026-09-23T20:30:37Z</span>
 
 ## What's Changed
