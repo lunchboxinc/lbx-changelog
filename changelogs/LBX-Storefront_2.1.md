@@ -1,3 +1,7 @@
+## v1.10.1 - <span class="utc-date">2026-10-19T14:03:42Z</span>
+
+LBX-28486, LBX-28489 - fix(a11y): one h1 per screen with prices in card names, and raise failing platform color defaults to 4.5:1
+
 ## v1.10.0 - <span class="utc-date">2026-10-13T13:17:12Z</span>
 
 feat: i18n setup
