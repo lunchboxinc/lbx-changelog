@@ -1,3 +1,7 @@
+## v1.10.3 - <span class="utc-date">2026-10-26T14:09:34Z</span>
+
+LBX-28491 - fix(a11y): announce and focus form errors, keep required-choice errors on screen, and make menu, home, cart and date-time modal usable on very short screens
+
 ## v1.10.2 - <span class="utc-date">2026-10-21T16:26:38Z</span>
 
 LBX-28650 - fix(rewards): use the admin-defined points name in reward claim text, banner and offers subtitle
