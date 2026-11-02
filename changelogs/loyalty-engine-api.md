@@ -1,3 +1,13 @@
+## 1.0.25 - <span class="utc-date">2026-11-02T15:28:22Z</span>
+
+## What's Changed
+* update/LBX 28261 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/986
+* Update to aws version 3 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/996
+* version/1.0.26 by @mrBrokenLegs in https://github.com/lunchboxinc/loyalty-engine-api/pull/998
+
+
+**Full Changelog**: https://github.com/lunchboxinc/loyalty-engine-api/compare/1.0.24...1.0.25
+
 ## 1.0.24 - <span class="utc-date">2026-10-15T14:57:57Z</span>
 
 ## What's Changed
