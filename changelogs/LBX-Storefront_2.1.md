@@ -1,3 +1,7 @@
+## v1.10.4 - <span class="utc-date">2026-11-02T14:43:41Z</span>
+
+LBX-30280 - fix: keep the scheduled order time when orders/new is called from the tax exempt prompt
+
 ## v1.10.3 - <span class="utc-date">2026-10-26T14:09:34Z</span>
 
 LBX-28491 - fix(a11y): announce and focus form errors, keep required-choice errors on screen, and make menu, home, cart and date-time modal usable on very short screens
