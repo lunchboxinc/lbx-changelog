@@ -1,3 +1,7 @@
+## v1.10.6 - <span class="utc-date">2026-11-09T17:19:31Z</span>
+
+LBX-30320 - fix: ada status messages
+
 ## v1.10.5 - <span class="utc-date">2026-11-09T17:19:07Z</span>
 
 LBX-28643 - feat: analytics gtm ga4 integration
