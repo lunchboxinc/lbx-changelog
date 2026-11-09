@@ -1,3 +1,7 @@
+## v1.10.5 - <span class="utc-date">2026-11-09T17:19:07Z</span>
+
+LBX-28643 - feat: analytics gtm ga4 integration
+
 ## v1.10.4 - <span class="utc-date">2026-11-02T14:43:41Z</span>
 
 LBX-30280 - fix: keep the scheduled order time when orders/new is called from the tax exempt prompt
