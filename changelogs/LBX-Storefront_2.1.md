@@ -1,3 +1,7 @@
+## v1.10.8 - <span class="utc-date">2026-11-10T15:49:00Z</span>
+
+chore: track package-lock.json for dependency graph and Dependabot
+
 ## v1.10.7 - <span class="utc-date">2026-11-10T14:28:15Z</span>
 
 LBX-28492 - feat(reorder): show what won't carry over and allow location change in cart
