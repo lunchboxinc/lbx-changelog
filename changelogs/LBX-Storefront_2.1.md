@@ -1,3 +1,7 @@
+## v1.10.9 - <span class="utc-date">2026-11-10T17:37:45Z</span>
+
+LBX-30360 - chore: update vulnerable dependencies
+
 ## v1.10.8 - <span class="utc-date">2026-11-10T15:49:00Z</span>
 
 chore: track package-lock.json for dependency graph and Dependabot
