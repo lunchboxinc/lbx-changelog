@@ -1,3 +1,7 @@
+## v1.10.7 - <span class="utc-date">2026-11-10T14:28:15Z</span>
+
+LBX-28492 - feat(reorder): show what won't carry over and allow location change in cart
+
 ## v1.10.6 - <span class="utc-date">2026-11-09T17:19:31Z</span>
 
 LBX-30320 - fix: ada status messages
