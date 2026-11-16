@@ -1,3 +1,7 @@
+## v1.10.10 - <span class="utc-date">2026-11-16T10:59:51Z</span>
+
+LBX-30362 - chore: add npm overrides for vulnerable transitive deps
+
 ## v1.10.9 - <span class="utc-date">2026-11-10T17:37:45Z</span>
 
 LBX-30360 - chore: update vulnerable dependencies
