@@ -1,3 +1,7 @@
+## v1.10.11 - <span class="utc-date">2026-11-17T11:39:47Z</span>
+
+LBX-30366 - feat: hide email/password login when email_sign_in is disabled
+
 ## v1.10.10 - <span class="utc-date">2026-11-16T10:59:51Z</span>
 
 LBX-30362 - chore: add npm overrides for vulnerable transitive deps
