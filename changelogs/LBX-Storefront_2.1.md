@@ -1,3 +1,7 @@
+## v1.10.14 - <span class="utc-date">2026-11-17T16:18:42Z</span>
+
+LBX-30365 - fix(rokt): stop loading launcher.js on every page
+
 ## v1.10.13 - <span class="utc-date">2026-11-17T15:21:20Z</span>
 
 LBX-28535 - fix: preserve guest cart after SSO login
