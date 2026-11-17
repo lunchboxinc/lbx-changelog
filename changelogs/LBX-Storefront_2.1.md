@@ -1,3 +1,7 @@
+## v1.10.13 - <span class="utc-date">2026-11-17T15:21:20Z</span>
+
+LBX-28535 - fix: preserve guest cart after SSO login
+
 ## v1.10.12 - <span class="utc-date">2026-11-17T14:20:08Z</span>
 
 LBX-30386 - chore: add npm overrides for dev-tooling vulnerabilities
