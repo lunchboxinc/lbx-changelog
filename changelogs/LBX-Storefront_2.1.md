@@ -1,3 +1,7 @@
+## v1.10.15 - <span class="utc-date">2026-11-19T12:04:41Z</span>
+
+LBX-30368 - feat: track gift card purchases in GTM
+
 ## v1.10.14 - <span class="utc-date">2026-11-17T16:18:42Z</span>
 
 LBX-30365 - fix(rokt): stop loading launcher.js on every page
