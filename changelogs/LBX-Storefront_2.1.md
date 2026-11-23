@@ -1,3 +1,8 @@
+## v1.10.16 - <span class="utc-date">2026-11-23T14:46:14Z</span>
+
+LBX-30415 - feat: hash email and name attributes sent to Rokt- #709
+
+
 ## v1.10.15 - <span class="utc-date">2026-11-19T12:04:41Z</span>
 
 LBX-30368 - feat: track gift card purchases in GTM
