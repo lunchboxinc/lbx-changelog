@@ -1,3 +1,7 @@
+## v1.10.17 - <span class="utc-date">2026-11-24T12:44:32Z</span>
+
+LBX-30430 - chore: upgrade @coralogix/browser 2.14 -> 4.7
+
 ## v1.10.16 - <span class="utc-date">2026-11-23T14:46:14Z</span>
 
 LBX-30415 - feat: hash email and name attributes sent to Rokt- #709
