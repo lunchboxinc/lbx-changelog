@@ -1,3 +1,7 @@
+## v1.10.18 - <span class="utc-date">2026-11-24T14:28:53Z</span>
+
+LBX-30436 - fix: show item name in upsell added-to-cart toast
+
 ## v1.10.17 - <span class="utc-date">2026-11-24T12:44:32Z</span>
 
 LBX-30430 - chore: upgrade @coralogix/browser 2.14 -> 4.7
